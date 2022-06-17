@@ -1,0 +1,2744 @@
+@charset "utf-8";
+
+.bg #web {
+	width:985px;
+	height:auto;
+}
+
+.bg #web #logo {
+	float:left;
+	position:absolute;
+}
+
+.bg #web #text {
+	width:985px;
+	height:50px;
+	position:absolute;
+	top:40px;
+	
+	/*background-color:#F00;*/
+
+}
+
+/*.bg center #web #content02 #BoxText .paragraph {
+}*/
+
+.bg {
+	background:#0FF;
+
+}
+
+
+
+
+/*.bg center #web #content03 {
+}*/
+
+.bg #web #NavBar {
+	width: 985px;
+	height: 50px;
+	position:absolute;
+	background-color: #F00;
+	top:120px;
+
+}
+.bg  #web #NavBar #aboutUS {
+	width: 100px;
+	height: 50px;
+	position:absolute;
+	left: 100px;
+	top:0px;
+	background-color:#FF0;
+	border-color:#000;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+
+}
+
+.bg #web #NavBar #urapps {
+	width: 100px;
+	height: 50px;
+	background-color: #FF0;
+	position:absolute;
+	top:0px;
+	left: 270px;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+}
+.bg #web #NavBar #vid {
+	width: 100px;
+	height: 50px;
+	position:absolute;
+	left: 450px;
+	background-color: #FF0;
+	-webkit-transition: all 1ms 1ms;
+	-moz-transition: all 1ms 1ms;
+	-ms-transition: all 1ms 1ms;
+	-o-transition: all 1ms 1ms;
+	transition: all 1ms 1ms;
+}
+	
+.bg #web #NavBar #store {
+	width: 100px;
+	height: 50px;
+	background-color: #FF0;
+	position:absolute;
+	left: 640px;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+}
+.bg #web #NavBar #contact {
+	width: 100px;
+	height: 50px;
+	background-color: #FF0;
+	position:absolute;
+	left: 810px;
+	-webkit-transition: all 1ms ease 1ms;
+	-moz-transition: all 1ms ease 1ms;
+	-ms-transition: all 1ms ease 1ms;
+	-o-transition: all 1ms ease 1ms;
+	transition: all 1ms ease 1ms;
+}
+
+
+.bg #web #NavBar #aboutUS:hover {
+	background-color: #909;
+}
+.bg #web #NavBar #aboutUS #text01 {
+
+	width:100px;
+	height:50px;
+	padding: 1px;
+	padding-top: 11px;
+	font-family:Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 1em;
+	color: #F00;
+	-webkit-transition: all 1ms 1ms;
+	-moz-transition: all 1ms 1ms;
+	-ms-transition: all 1ms 1ms;
+	-o-transition: all 1ms 1ms;
+	transition: all 1ms 1ms;
+
+
+}
+.bg #web #NavBar #aboutUS #text01:hover {
+	color:#0FF;
+}
+.bg #web #NavBar #urapps #text02 {
+	width: 100px;
+	height: 50px;
+	color: #F00;
+	padding: 1px;
+	padding-top: 11px;
+	font-family: Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 1em;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+	
+}
+
+
+.bg #web #NavBar #urapps:hover {
+	background-color: #90C;
+}
+.bg #web #NavBar #urapps #text02:hover {
+	color: #0FF;
+}
+.bg #web #NavBar #vid #text03 {
+	width: 100px;
+	height: 50px;
+	color: #F00;
+	padding: 1px;
+	padding-top: 11px;
+	font-family: Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 1em;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+	
+}
+.bg #web #NavBar #vid:hover {
+	background-color: #90C;
+}
+.bg #web #NavBar #vid #text03:hover {
+	color:  #0FF;
+}
+.bg #web #NavBar #store #text04 {
+	width: 100px;
+	height: 50px;
+	color: #F00;
+	padding: 1px;
+	padding-top: 11px;
+	font-family: Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 1em;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+}
+.bg #web  #NavBar #store:hover {
+	background-color: #90C;
+}
+.bg #web #NavBar #store #text04:hover {
+	color: #0FF;
+}
+.bg #web #contact #text05 {
+	width: 100px;
+	height: 50px;
+	color: #F00;
+	padding: 1px;
+	padding-top: 11px;
+	font-family: Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 1em;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+	
+	
+}
+.bg #web #NavBar #contact:hover {
+	background-color: #93C;
+}
+.bg #web #contact #text05:hover {
+	color: #0FF;
+}
+.bg #web #content01 {
+	width:985px;
+	height:450px;
+	position:absolute;
+	top:200px;
+	background-color:#09F;
+	
+}
+
+
+/*
+.bg center #web #navBar02 {
+	width:50px;
+	height:50px;
+	position:absolute;
+	top:115px;
+	left:200px;
+	background-color:#FF0;
+	padding:0;
+	margin:0;
+	visibility:hidden;
+}
+
+*/
+
+.bg #web #MobileNav ul li a {
+
+text-decoration:none;
+visibility:hidden;
+
+}
+
+
+
+
+.bg #web #MobileNav ul ul li a{
+	padding-left:25px;
+	margin:0px;
+	display:block;
+	text-decoration:none;
+	visibility:hidden;
+	
+
+
+}
+
+.bg #web #MobileNav ul li {
+
+list-style:none;
+visibility:hidden;
+
+}
+
+
+.bg #web #content01 #welcome {
+	width:auto;
+	height:auto; 
+	color:#FFF;
+	font-family:Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size:2em;
+	padding-top:11px;
+
+
+}
+.bg #web #content01 #star01 {
+	width: 100px;
+	height: 100px;
+	position:absolute;
+	left: 50px;
+	background-image: url(images/star01.png);
+	background-repeat: no-repeat;
+	-webkit-transition: all 1ms 1ms;
+	-moz-transition: all 1ms 1ms;
+	-ms-transition: all 1ms 1ms;
+	-o-transition: all 1ms 1ms;
+	transition: all 1ms 1ms;
+}
+
+
+
+.bg #web #content01 #star01:hover {
+	background-image: url(images/star02.png);
+}
+.bg #web #content01 #star02 {
+	width: 100px;
+	height: 100px;
+	position:absolute;
+	top: 300px;
+	left:100px;
+	background-image: url(images/star01.png);
+	background-repeat: no-repeat;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+}
+
+.bg #web #content01 #star03 {
+	width: 100px;
+	height: 100px;
+	position:absolute;
+	left: 850px;
+	background-image: url(images/star01.png);
+	background-repeat: no-repeat;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+} 
+
+
+
+.bg #web #content01 #star02:hover {
+	background-image: url(images/star02.png);
+}
+.bg #web #content01 #star03:hover {
+	background-image: url(images/star02.png);
+}
+.bg #web #content01 #balloon01 {
+	background-image: url(images/balloon01.png);
+	width: 197px;
+	height: 213px;
+	position:absolute;
+	background-repeat:no-repeat;
+	left:400px;
+	top: 150px;
+	-webkit-transition: all 1ms 1ms;
+	-moz-transition: all 1ms 1ms;
+	-ms-transition: all 1ms 1ms;
+	-o-transition: all 1ms 1ms;
+	transition: all 1ms 1ms;
+
+}
+
+.bg #web #content01 #balloon01:hover {
+	background-image: url(images/bad01.png);
+}
+
+.bg #web #content01 #balloon02 {
+	background-image: url(images/balloon02.png);
+	width: 197px;
+	height: 213px;
+	position:absolute;
+	background-repeat: no-repeat;
+	left: 750px;
+	top: 180px;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+}
+.bg #web #content01 #balloon02:hover {
+	background-image: url(images/bad02.png);
+}
+.bg #web #content01 #balloon03 {
+	background-image: url(images/balloon03.png);
+	width: 197px;
+	height: 213px;
+	position:absolute;
+	background-repeat: no-repeat;
+	left: 130px;
+	top: 100px;
+	-webkit-transition: all 1ms 1ms;
+	-moz-transition: all 1ms 1ms;
+	-ms-transition: all 1ms 1ms;
+	-o-transition: all 1ms 1ms;
+	transition: all 1ms 1ms;
+	
+	
+	
+}
+
+
+.bg #web #content01 #balloon03:hover {
+	background-image: url(images/bad03.png);
+}
+
+
+
+.bg #web #content01 #balloon04 {
+	width: 119px;
+	height: 136px;
+	background-image: url(images/balloon04.png);
+	position:absolute;
+	left: 650px;
+	top: 50px;
+	-webkit-transition: all 1ms 1ms;
+	-moz-transition: all 1ms 1ms;
+	-ms-transition: all 1ms 1ms;
+	-o-transition: all 1ms 1ms;
+	transition: all 1ms 1ms;
+	
+	
+
+}
+.bg #web #content01 #balloon04:hover {
+	background-image: url(images/bad04.png);
+}
+
+.bg #web #content01 #balloon05 {
+	width: 119px;
+	height: 136px;
+	background-image: url(images/balloon05-01.png);
+	position:absolute;
+	left: 300px;
+	top: 300px;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+	
+}
+
+
+
+.bg #web #content01 #balloon05:hover {
+	background-image: url(images/bad05-01.png);
+}
+
+
+.bg #web #content01 #balloon06 {
+	width: 119px;
+	height: 136px;
+	background-image: url(images/balloon06-01.png);
+	left: 640px;
+	top: 300px;
+	position:absolute;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+	
+}
+.bg #web #content01 #balloon06:hover {
+	background-image: url(images/bad06-01.png);
+}
+.bg #web #content02 {
+	
+	width:985px; 
+	height:450px;
+	background-color:#90C;
+	position:absolute;
+	top:680px;
+	
+}
+
+
+
+
+.bg center #web #content03 {
+	width:985px; 
+	height:450px;
+	background-color:#FF0;
+	position:absolute;
+	top:1170px;
+}
+
+
+
+
+.bg  #web #content02 #ourMission {
+	width:auto;
+	height:auto;
+	color:#FFF;
+	/*background-color:#36F;*/
+	font-family:Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size:2em;
+	padding-top:12px;
+
+	
+}
+
+
+.bg #web #content02 #BoxText {
+	width:350px;
+	height:350px;
+	background-color:#0FF;
+	position:absolute;
+	left:30px;
+	border-radius:20px;
+	opacity:0.9;
+	
+}
+
+
+
+
+
+.bg #web #content02 #BoxText{
+	
+	width:350px;
+	height:350px;
+	font-family:Gotham, "Helvetica Neue", Helvetica,
+	 Arial, sans-serif;
+	color:#FFF;
+	font-size:1.40em;
+	position:absolute;
+	text-align:left;
+	
+}
+.bg #web #content02 #BoxText .paragraph {
+	padding:5px;
+		
+}
+
+
+
+.bg #web #content02 #image {
+	width: 350px;
+	height: 350px;
+	position: absolute;
+	left: 600px;
+	background-image: url(images/globe-01.png);
+	background-repeat:no-repeat;
+	-webkit-transition: all 1ms linear 1ms;
+	-moz-transition: all 1ms linear 1ms;
+	-ms-transition: all 1ms linear 1ms;
+	-o-transition: all 1ms linear 1ms;
+	transition: all 1ms linear 1ms;
+	
+}
+
+
+
+
+
+
+.bg #web #content02 #image:hover {
+	background-image: url(images/golbe2-01.png);
+}
+.bg #web #foot {
+	background-color:#F00;
+   	width:985px; 
+	height:70px;
+	position:absolute;
+	top:1650px;
+}  
+
+.bg #web #content03 #boxing2 {
+    
+	width:auto;
+	height:auto;
+	color:#FFF;
+	/*background-color:#36F;*/
+	font-family:Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size:2em;
+	padding-top:12px;
+
+}
+
+
+.bg #web #content03 #txtBoxing {
+
+
+	width:350px;
+	height:350px;
+	background-color:#0FF;
+	position:absolute;
+	left:30px;
+	border-radius:20px;
+	opacity:0.9;
+	padding:5px;
+
+
+
+}
+
+
+.bg #web #content03 #gif {
+	width: 350px;
+	height: 350px;
+	position: absolute;
+	left: 600px;
+	border-radius: 20px;
+	background-repeat:no-repeat;
+	background-image: url(images/icon-01.png);
+	-webkit-transition: all 1ms ease 1ms;
+	-moz-transition: all 1ms ease 1ms;
+	-ms-transition: all 1ms ease 1ms;
+	-o-transition: all 1ms ease 1ms;
+	transition: all 1ms ease 1ms;
+
+
+
+}
+
+.bg #web #content03 #txtBoxing .Annoyingtxt {
+	text-align:left;
+	color:#FFF;
+	 font-family:Gotham, "Helvetica Neue", Helvetica,
+	 Arial, sans-serif;
+	 font-size:1.40em;
+
+	
+}
+
+
+
+
+.bg #web #foot #facebook {
+	width: 48px;
+	height: 48px;
+	/*background-color:#FF0;*/
+	background-image: url(images/buttons/facebook01-01.png);
+	background-repeat:no-repeat;
+	position: absolute;
+	left: 30px;
+	top: 12px;
+	-webkit-transition: all 1ms 1ms;
+	-moz-transition: all 1ms 1ms;
+	-ms-transition: all 1ms 1ms;
+	-o-transition: all 1ms 1ms;
+	transition: all 1ms 1ms;
+	
+	
+}
+
+
+.bg #web #foot #facebook:hover {
+	background-image: url(images/buttons/facebook02-01.png);
+}
+.bg center #web #foot #twitter {
+	width: 48px;
+	height: 48px;
+	/*background-color:#FF0;*/
+	background-image: url(images/buttons/t-01.png);
+	position: absolute;
+	left: 100px;
+	top: 12px;
+	background-repeat:no-repeat;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+	
+}
+
+
+.bg center #web #foot #twitter:hover {
+	background-image: url(images/buttons/t02-01.png);
+	
+}
+
+
+
+
+.bg #web #content03 #gif:hover {
+	background-image:url(images/icon02-01.png);
+	
+}
+
+
+.bg #web #foot #term {
+	width:200px;
+	height:50px;
+	background-color:#FF0;
+	left: 180px;
+	top:12px;
+	color:#F00;
+	position: absolute;
+
+}
+
+
+.bg #web #foot #term:hover {
+	background-color:#90C;
+	
+}
+
+
+.bg #web #foot #term #txtTerm {
+	width:200px;
+	height:40px;
+	color:#F00;
+	position: absolute;
+font-family:Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size:1em;
+	padding-Top:10px;
+
+}
+
+
+.bg #web #foot #term #txtTerm:hover {
+	color:#0FF;
+}
+
+.bg #web #foot #copyright {
+	width:200px;
+	height:48px;
+	left: 180px;
+	top:80px;
+	color:#FF0;
+	position: absolute;
+
+}
+
+
+.bg #web #foot {
+	width:985px;
+	height:150px;
+	
+}  
+
+
+/*////////////////////////////mobile CSS ////////////////////////////////////////*/
+
+
+@media screen and (max-width:768px){
+	/* tablets.. pad ect ...*/
+
+
+.bg #web {
+	
+width:100%;
+/*height:20px;
+/*background:#03F;*/
+
+
+}
+
+	
+.bg #web #text {
+	width:98%;
+	height:50px;
+	
+	/*background-color:#F00;*/
+
+}
+
+.bg #web #NavBar {
+	width:98%;
+	height: 50px;
+
+}
+
+
+.bg  #web #NavBar #aboutUS {
+	
+	left:1%;
+}
+
+
+.bg #web #NavBar #urapps {
+
+	left: 20%;
+
+}
+
+.bg #web #NavBar #vid {
+
+	left: 43%;
+
+}
+
+
+.bg #web #NavBar #store {
+
+	left: 65%;
+
+}
+
+.bg #web #NavBar #contact {
+
+	left: 83%;
+
+}
+
+.bg #web #content01 {
+	width:98%;
+	height:450px;
+	
+}
+
+.bg #web #content01 #star01 {
+
+	left: 1%;
+	background-size:auto;
+	
+
+}
+
+
+.bg #web #content01 #star02 {
+
+	left: 5%;
+	background-size:auto;
+	
+
+}
+
+.bg #web #content01 #star03 {
+
+	left: 80%;
+	background-size:auto;
+	
+
+}
+
+
+.bg #web #content01 #balloon01 {
+
+	left: 38%;
+	background-size:auto;
+	background-size: 80% 80%;
+	
+}
+
+.bg #web #content01 #balloon02 {
+     
+	width:120px;
+	height:120px;
+	left: 72%;
+	background-size:auto;
+	background-size: 80% 80%;
+	
+}
+	
+.bg #web #content01 #balloon03 {
+
+	left: 10%;
+	background-size:auto;
+	background-size: 80% 80%;
+	
+}	
+	
+.bg #web #content01 #balloon04 {
+
+	left: 60%;
+	background-size:auto;
+	
+}
+
+.bg #web #content01 #balloon05 {
+
+	left: 27%;
+	background-size:auto;
+	
+}
+
+
+.bg #web #content01 #balloon06 {
+
+	left: 59%;
+	background-size:auto;
+	
+}
+
+
+
+.bg #web #content01 #welcome {
+
+	font-size:1.90em;
+	
+
+}
+
+.bg #web #content02 {
+	
+	width:98%;
+	height:450px;
+	
+}
+
+
+.bg  #web #content02 #ourMission {
+	
+	font-size:1.95em;
+	
+
+
+	
+}
+
+.bg #web #content02 #image {
+	width:250px;
+	height:250px;
+	left:58%;
+	top:20%;
+    background-size: 250px 250px;
+	
+}
+
+.bg center #web #content03 {
+
+	width:98%;
+	height:450px;
+
+}
+
+.bg #web #content03 #gif {
+	width:220px;
+	height:220px;
+	background-image:url(images/icon/icon02-01.png);
+	background-size:90%,90%;
+	left:65%;
+	top:20%;
+
+}
+
+.bg #web #content03 #gif:hover {
+	background-image:url(images/icon/icon02-02-01.png);
+}
+
+.bg #web #foot {
+	width:98%;
+	height:150px;
+	
+}  
+
+.bg #web #foot #copyright {
+	width:200px;
+	height:48px;
+	left: 100px;
+	top:80px;
+	color:#FF0;
+	position: absolute;
+
+}
+
+
+}
+
+/*
+tablets.. pad ect ... landscape
+@media screen and (max-width:1024px){
+	
+
+
+.bg #web {
+	
+width:100%;
+height:20px;
+background:#CF0;
+
+
+}
+
+	
+.bg #web #text {
+	width:98%;
+	height:50px;
+	
+	background-color:#F00;
+
+}
+
+.bg #web #NavBar {
+	width:98%;
+	height: 50px;
+
+}
+
+
+.bg  #web #NavBar #aboutUS {
+	
+	left:1%;
+}
+
+
+.bg #web #NavBar #urapps {
+
+	left: 20%;
+
+}
+
+.bg #web #NavBar #vid {
+
+	left: 43%;
+
+}
+
+
+.bg #web #NavBar #store {
+
+	left: 65%;
+
+}
+
+.bg #web #NavBar #contact {
+
+	left: 85%;
+
+}
+
+.bg #web #content01 {
+	width:98%;
+	height:450px;
+	
+}
+
+.bg #web #content01 #star01 {
+
+	left: 1%;
+	background-size:auto;
+	
+
+}
+
+
+.bg #web #content01 #star02 {
+
+	left: 5%;
+	background-size:auto;
+	
+
+}
+
+.bg #web #content01 #star03 {
+
+	left: 80%;
+	background-size:auto;
+	
+
+}
+
+
+.bg #web #content01 #balloon01 {
+
+	left: 38%;
+	background-size:auto;
+	background-size: 80% 80%;
+	
+}
+
+.bg #web #content01 #balloon02 {
+
+	left: 72%;
+	background-size:auto;
+	background-size: 80% 80%;
+	
+}
+	
+.bg #web #content01 #balloon03 {
+
+	left: 10%;
+	background-size:auto;
+	background-size: 80% 80%;
+	
+}	
+	
+.bg #web #content01 #balloon04 {
+
+	left: 60%;
+	background-size:auto;
+	
+}
+
+.bg #web #content01 #balloon05 {
+
+	left: 27%;
+	background-size:auto;
+	
+}
+
+
+.bg #web #content01 #balloon06 {
+
+	left: 59%;
+	background-size:auto;
+	
+}
+
+
+
+.bg #web #content01 #welcome {
+
+	font-size:1.90em;
+	
+
+}
+
+.bg #web #content02 {
+	
+	width:98%;
+	height:450px;
+	
+}
+
+
+.bg  #web #content02 #ourMission {
+	
+	font-size:1.95em;
+	
+
+
+	
+}
+
+.bg #web #content02 #image {
+	width:250px;
+	height:250px;
+	left:58%;
+	top:20%;
+    background-size: 250px 250px;
+	
+}
+
+.bg center #web #content03 {
+
+	width:98%;
+	height:450px;
+
+}
+
+.bg #web #content03 #gif {
+	width:250px;
+	height:250px;
+	background-image:url(images/icon/icon02-01.png);
+	left:58%;
+	top:20%;
+
+}
+
+.bg #web #content03 #gif:hover {
+	background-image:url(images/icon/icon02-02-01.png);
+}
+
+.bg #web #foot {
+	width:98%;
+	height:70px;
+	
+}  
+
+
+
+}
+*/
+
+
+
+@media screen and (max-width:480px){
+	/* smart phone/ android / ipod/ iphone ect ...*/
+
+.bg #web {
+	
+width:100%;
+/*height:20px;
+/*background:#000;*/
+
+
+}
+
+
+.bg #web #content01 #star01 {
+
+	left: 1%;
+	width:50px;
+	height:50px;
+	background-size:50px,50px;
+	
+
+}
+
+
+.bg #web #content01 #star02 {
+
+	left: 5%;
+	width:50px;
+	height:50px;
+	background-size:50px,50px;
+	
+
+}
+
+.bg #web #content01 #star03 {
+
+	left: 80%;
+	width:50px;
+	height:50px;
+	background-size:50px,50px;
+	
+
+}
+
+
+.bg #web #content01 #balloon01 {
+	width:100px;
+	height:100px;
+	left: 38%;
+	background-size: 100% 100%;
+	top:1460px;
+}
+
+.bg #web #content01 #balloon02 {
+
+	left: 72%;
+	width:100px;
+	height:100px;
+	top:-45px;
+	background-size: 100px 100px;
+	z-index:-1;
+}
+	
+.bg #web #content01 #balloon03 {
+
+	left: 10%;
+	width:100px;
+	height:100px;
+	background-size: 100px 100px;
+	top:2230px;
+	}	
+	
+.bg #web #content01 #balloon04 {
+
+	left: 60%;
+	width:90px;
+	height:90px;
+	background-size: 90px 90px;
+	top:100%;
+}
+
+.bg #web #content01 #balloon05 {
+
+	left: 27%;
+	width:90px;
+	height:90px;
+	background-size: 90px 90px;
+	
+}
+
+
+.bg #web #content01 #balloon06 {
+
+	left: 59%;
+	width:90px;
+	height:90px;
+	background-size: 90px 90px;
+	
+}
+
+
+.bg #web #content01 #balloon07 {
+	background-image: url(images/balloon01.png);
+	width: 130px;
+	height: 140px;
+	position:absolute;
+	background-repeat:no-repeat;
+	left:40%;
+	top: 100px;
+	background-size:130px,130px;
+	-webkit-transition: all 1ms 1ms;
+	-moz-transition: all 1ms 1ms;
+	-ms-transition: all 1ms 1ms;
+	-o-transition: all 1ms 1ms;
+	transition: all 1ms 1ms;
+
+}
+
+.bg #web #content01 #balloon07:hover {
+	background-image: url(images/bad01.png);
+}
+
+
+.bg #web #content01 #balloon08 {
+	background-image: url(images/balloon02.png);
+	width: 130px;
+	height: 140px;
+    background-size:130px,130px;
+	position:absolute;
+	background-repeat: no-repeat;
+	left: 60%;
+	top: 420px;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+}
+.bg #web #content01 #balloon08:hover {
+	background-image: url(images/bad02.png);
+}
+
+
+.bg #web #content01 #balloon09 {
+	background-image: url(images/balloon03.png);
+    width: 130px;
+	height: 140px;
+	position:absolute;
+	background-repeat: no-repeat;
+	background-size:80%,80%;
+	left: 10%;
+	top: 100px;
+	-webkit-transition: all 1ms 1ms;
+	-moz-transition: all 1ms 1ms;
+	-ms-transition: all 1ms 1ms;
+	-o-transition: all 1ms 1ms;
+	transition: all 1ms 1ms;
+	
+	
+	
+}
+
+
+.bg #web #content01 #balloon09:hover {
+	background-image: url(images/bad03.png);
+}
+
+.bg #web #content01 #balloon010 {
+	left:27%;
+    width:130px;
+	height:150px;
+	background-image: url(images/balloon04.png);
+	background-size:80%,80%;
+	background-repeat:no-repeat;
+	position:absolute;
+	top:400px;
+	-webkit-transition: all 1ms 1ms;
+	-moz-transition: all 1ms 1ms;
+	-ms-transition: all 1ms 1ms;
+	-o-transition: all 1ms 1ms;
+	transition: all 1ms 1ms;
+	
+	
+
+}
+.bg #web #content01 #balloon010:hover {
+	background-image: url(images/bad04.png);
+}
+
+.bg #web #content01 #balloon011 {
+    width:130px;
+	height:150px;
+	background-image:url(images/ball01-01.png);
+	background-size:130px,130px;
+	background-repeat:no-repeat;
+	position:absolute;
+	left:1%;
+	top:400px;
+	-webkit-transition: all 1ms 1ms;
+	-moz-transition: all 1ms 1ms;
+	-ms-transition: all 1ms 1ms;
+	-o-transition: all 1ms 1ms;
+	transition: all 1ms 1ms;
+	
+	
+
+}
+.bg #web #content01 #balloon011:hover {
+	background-image:url(images/ball02-01.png);
+}
+
+
+/*/////////////////////////////////////////*/
+.bg  #web #content02 #ourMission {
+	
+	font-size:1.95em;
+	
+
+
+	
+}
+
+.bg #web #content02 #image {
+	width:250px;
+	height:250px;
+	position:absolute;
+	left:20%;
+	top:10%;
+    background-size: 250px 250px;
+	
+}
+
+
+
+.bg #web #content03 #gif {
+	width:250px;
+	height:250px;
+	background-image:url(images/icon/icon02-01.png);
+	position:absolute;
+	left:20%;
+	top:10%;
+}
+
+.bg #web #content03 #gif:hover {
+	background-image:url(images/icon/icon02-02-01.png);
+}
+
+
+.bg #web #content02 #BoxText {
+    
+	top:45%;
+	left:5%;
+	width:87%;
+	
+	
+}
+
+
+.bg #web #content03 #txtBoxing {
+	
+    top:45%;
+	left:5%;
+	width:87%;
+	height:380px;
+
+
+}
+
+.bg #web #logo {
+	float:left;
+	left:20px;
+	top:30%;
+	position:absolute;
+}
+
+
+
+.bg #web #text {
+
+	top:5%;
+
+
+}
+
+.bg #web #text img {
+	width:96%;
+}
+
+
+
+.bg #web #NavBar {
+	width:96%;
+	height: 50px;
+	top:15%;
+    position:absolute;
+}
+
+
+.bg  #web #NavBar #aboutUS {
+	
+	left:1%;
+	display:none;
+}
+
+
+.bg #web #NavBar #urapps {
+
+	left: 20%;
+	display:none;
+}
+
+.bg #web #NavBar #vid {
+
+	left: 43%;
+	display:none;
+
+}
+
+
+.bg #web #NavBar #store {
+
+	left: 65%;
+	display:none;
+
+}
+
+.bg #web #NavBar #contact {
+
+	left: 85%;
+	display:none;
+	
+}
+.bg center #web #MobileNav {
+	
+	width:100px;
+	height:50px;
+	position:absolute;
+	background-color:#FF0;
+	top:15%;
+	left:40%;
+	display:block;
+	
+}
+
+.bg center #web #MobileNav:hover {
+	background-color:#90C;
+}
+
+
+.bg #web #MobileNav ul li a {
+
+font-family:Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+color:#F00;
+text-decoration:none;
+padding:0px;
+margin:0px;
+position:relative;
+text-align:center;
+display:block;
+left:-23px;
+padding-top:10px;
+visibility:visible;
+
+}
+
+
+
+
+
+.bg #web #MobileNav ul li {
+	list-style:none;
+	padding:0px;
+	margin:0px;
+	position:relative;
+	
+	
+
+}
+
+.bg #web #MobileNav ul li ul{
+	
+	padding:0px;
+	margin:0px;
+	position:absolute;
+	visibility:hidden;
+	
+
+}
+
+
+.bg #web #MobileNav ul:hover a {
+	
+	padding:0px;
+	margin:0px;
+	padding-top:10px;
+	visibility:visible;
+	color:#0FF;
+
+}
+
+.bg #web #MobileNav ul:hover ul{
+	
+
+	position:absolute;
+	visibility:visible;
+	background-color:#90C;
+
+}
+
+
+.bg #web #MobileNav ul {
+	
+	padding:0px;
+	margin:0px;
+	display:block;
+	width:0px;
+	height:0px;
+	
+	
+
+}
+
+.bg #web #MobileNav ul ul {
+	
+	padding:0px;
+	margin:0px;
+	display:block;
+	width:120px;
+	height:180px;
+	left:-49px;
+	background-color:#FF0;
+	
+
+
+	
+
+}
+.bg #web #MobileNav ul ul li  {
+	padding-left:25px;
+	margin:0px;
+	display:block;
+	background-color:#FF0;
+	
+
+
+	
+
+}
+
+
+.bg #web #MobileNav ul ul li a {
+	
+	display:block;
+
+}
+
+
+
+.bg #web #MobileNav ul ul li a:hover {
+	
+	display:block;
+	color:#F00;	
+
+
+}
+
+
+.bg #web #content01 {
+	width:97%;
+	height:600px;
+	top:320px;
+	
+	
+}
+
+.bg #web #content02 {
+	
+	width:97%;
+	height:820px;
+	top:960px;
+	
+}
+
+
+
+.bg center #web #content03 {
+    
+	width:97%;
+	height:730px;
+	top:1820px;
+}
+
+
+
+.bg #web #foot {
+	width:97%;
+	height:150px;
+	top:2590px;
+}  
+
+
+.bg #web #foot #term {
+	width:30%;
+	height:48px;
+	background-color:#FF0;
+	left: 180px;
+	top:12px;
+	color:#F00;
+	position: absolute;
+	display:block;
+
+}
+
+
+.bg #web #foot #term #txtTerm {
+	width:100%;
+	height:40px;
+	color:#F00;
+	position: absolute;
+font-family:Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size:1em;
+	padding-Top:10px;
+	display:block;
+}
+
+
+
+}
+/*//////////////////////////////////////////*/
+
+/*
+@media screen and (max-width:592px){
+	 smart phone/ android / ipod/ iphone ect ...
+
+.bg #web {
+	
+width:100%;
+height:20px;
+
+
+
+}
+
+
+.bg #web #content01 #star01 {
+
+	left: 1%;
+	width:50px;
+	height:50px;
+	background-size:50px,50px;
+	
+
+}
+
+
+.bg #web #content01 #star02 {
+
+	left: 5%;
+	width:50px;
+	height:50px;
+	background-size:50px,50px;
+	
+
+}
+
+.bg #web #content01 #star03 {
+
+	left: 80%;
+	width:50px;
+	height:50px;
+	background-size:50px,50px;
+	
+
+}
+
+
+.bg #web #content01 #balloon01 {
+	width:100px;
+	height:100px;
+	left: 38%;
+	background-size: 100% 100%;
+	top:1460px;
+}
+
+.bg #web #content01 #balloon02 {
+
+	left: 72%;
+	width:100px;
+	height:100px;
+	top:-45px;
+	background-size: 100px 100px;
+	z-index:-1;
+}
+	
+.bg #web #content01 #balloon03 {
+
+	left: 10%;
+	width:100px;
+	height:100px;
+	background-size: 100px 100px;
+	top:2230px;
+	}	
+	
+.bg #web #content01 #balloon04 {
+
+	left: 60%;
+	width:90px;
+	height:90px;
+	background-size: 90px 90px;
+	top:100%;
+}
+
+.bg #web #content01 #balloon05 {
+
+	left: 27%;
+	width:90px;
+	height:90px;
+	background-size: 90px 90px;
+	
+}
+
+
+.bg #web #content01 #balloon06 {
+
+	left: 59%;
+	width:90px;
+	height:90px;
+	background-size: 90px 90px;
+	
+}
+
+
+.bg #web #content01 #balloon07 {
+	background-image: url(images/balloon01.png);
+	width: 130px;
+	height: 140px;
+	position:absolute;
+	background-repeat:no-repeat;
+	left:100px;
+	top: 100px;
+	background-size:130px,130px;
+	-webkit-transition: all 1ms 1ms;
+	-moz-transition: all 1ms 1ms;
+	-ms-transition: all 1ms 1ms;
+	-o-transition: all 1ms 1ms;
+	transition: all 1ms 1ms;
+
+}
+
+.bg #web #content01 #balloon07:hover {
+	background-image: url(images/bad01.png);
+}
+
+
+.bg #web #content01 #balloon08 {
+	background-image: url(images/balloon02.png);
+	width: 130px;
+	height: 140px;
+    background-size:130px,130px;
+	position:absolute;
+	background-repeat: no-repeat;
+	left: 150px;
+	top: 420px;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+}
+.bg #web #content01 #balloon08:hover {
+	background-image: url(images/bad02.png);
+}
+
+
+.bg #web #content01 #balloon09 {
+	background-image: url(images/balloon03.png);
+    width: 130px;
+	height: 140px;
+	position:absolute;
+	background-repeat: no-repeat;
+	background-size:130px,130px;
+	left: 270px;
+	top: 100px;
+	-webkit-transition: all 1ms 1ms;
+	-moz-transition: all 1ms 1ms;
+	-ms-transition: all 1ms 1ms;
+	-o-transition: all 1ms 1ms;
+	transition: all 1ms 1ms;
+	
+	
+	
+}
+
+
+.bg #web #content01 #balloon09:hover {
+	background-image: url(images/bad03.png);
+}
+
+.bg #web #content01 #balloon010 {
+    width:130px;
+	height:150px;
+	background-image: url(images/balloon04.png);
+	background-size:130px,130px;
+	background-repeat:no-repeat;
+	position:absolute;
+	left:298px;
+	top:400px;
+	-webkit-transition: all 1ms 1ms;
+	-moz-transition: all 1ms 1ms;
+	-ms-transition: all 1ms 1ms;
+	-o-transition: all 1ms 1ms;
+	transition: all 1ms 1ms;
+	
+	
+
+}
+.bg #web #content01 #balloon010:hover {
+	background-image: url(images/bad04.png);
+}
+
+.bg #web #content01 #balloon011 {
+    width:130px;
+	height:150px;
+	background-image:url(images/ball01-01.png);
+	background-size:130px,130px;
+	background-repeat:no-repeat;
+	position:absolute;
+	left:20px;
+	top:400px;
+	-webkit-transition: all 1ms 1ms;
+	-moz-transition: all 1ms 1ms;
+	-ms-transition: all 1ms 1ms;
+	-o-transition: all 1ms 1ms;
+	transition: all 1ms 1ms;
+	
+	
+
+}
+.bg #web #content01 #balloon011:hover {
+	background-image:url(images/ball02-01.png);
+}
+
+
+/////////////////////////////////////////
+.bg  #web #content02 #ourMission {
+	
+	font-size:1.95em;
+	
+
+
+	
+}
+
+.bg #web #content02 #image {
+	width:250px;
+	height:250px;
+	position:absolute;
+	left:20%;
+	top:10%;
+    background-size: 250px 250px;
+	
+}
+
+
+
+.bg #web #content03 #gif {
+	width:250px;
+	height:250px;
+	background-image:url(images/icon/icon02-01.png);
+	position:absolute;
+	left:20%;
+	top:10%;
+}
+
+.bg #web #content03 #gif:hover {
+	background-image:url(images/icon/icon02-02-01.png);
+}
+
+
+.bg #web #content02 #BoxText {
+
+	top:45%;
+	left:10%;
+	
+	
+}
+
+
+.bg #web #content03 #txtBoxing {
+
+
+    top:45%;
+	left:10%;
+
+
+}
+
+.bg #web #logo {
+	float:left;
+	left:20px;
+	top:30%;
+	position:absolute;
+}
+
+
+
+.bg #web #text {
+
+	top:5%;
+
+
+}
+
+
+
+
+.bg #web #NavBar {
+	width:98%;
+	height: 50px;
+	top:15%;
+    position:absolute;
+}
+
+
+.bg  #web #NavBar #aboutUS {
+	
+	left:1%;
+	display:none;
+}
+
+
+.bg #web #NavBar #urapps {
+
+	left: 20%;
+	display:none;
+}
+
+.bg #web #NavBar #vid {
+
+	left: 43%;
+	display:none;
+
+}
+
+
+.bg #web #NavBar #store {
+
+	left: 65%;
+	display:none;
+
+}
+
+.bg #web #NavBar #contact {
+
+	left: 85%;
+	display:none;
+	
+}
+.bg center #web #MobileNav {
+	
+	width:100px;
+	height:50px;
+	position:absolute;
+	background-color:#FF0;
+	top:15%;
+	left:160px;
+	display:block;
+	
+}
+
+.bg center #web #MobileNav:hover {
+	background-color:#90C;
+}
+
+
+.bg #web #MobileNav ul li a {
+
+font-family:Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+color:#F00;
+text-decoration:none;
+padding:0px;
+margin:0px;
+position:relative;
+text-align:center;
+display:block;
+left:-23px;
+padding-top:10px;
+visibility:visible;
+
+}
+
+
+
+
+
+.bg #web #MobileNav ul li {
+	list-style:none;
+	padding:0px;
+	margin:0px;
+	position:relative;
+	
+	
+
+}
+
+.bg #web #MobileNav ul li ul{
+	
+	padding:0px;
+	margin:0px;
+	position:absolute;
+	visibility:hidden;
+	
+
+}
+
+
+.bg #web #MobileNav ul:hover a {
+	
+	padding:0px;
+	margin:0px;
+	padding-top:10px;
+	visibility:visible;
+	color:#0FF;
+
+}
+
+.bg #web #MobileNav ul:hover ul{
+	
+
+	position:absolute;
+	visibility:visible;
+	background-color:#90C;
+
+}
+
+
+.bg #web #MobileNav ul {
+	
+	padding:0px;
+	margin:0px;
+	display:block;
+	width:0px;
+	height:0px;
+	
+	
+
+}
+
+.bg #web #MobileNav ul ul {
+	
+	padding:0px;
+	margin:0px;
+	display:block;
+	width:120px;
+	height:180px;
+	left:-49px;
+	background-color:#FF0;
+	
+
+
+	
+
+}
+.bg #web #MobileNav ul ul li  {
+	padding-left:25px;
+	margin:0px;
+	display:block;
+	background-color:#FF0;
+	
+
+
+	
+
+}
+
+
+.bg #web #MobileNav ul ul li a {
+	
+	display:block;
+
+}
+
+
+
+.bg #web #MobileNav ul ul li a:hover {
+	
+	display:block;
+	color:#F00;	
+
+
+}
+
+
+.bg #web #content01 {
+	width:97%;
+	height:600px;
+	top:320px;
+	
+	
+}
+
+.bg #web #content02 {
+	
+	width:97%;
+	height:820px;
+	top:960px;
+	
+}
+
+
+
+.bg center #web #content03 {
+    
+	width:97%;
+	height:730px;
+	top:1820px;
+}
+
+
+
+.bg #web #foot {
+	width:97%;
+	height:70px;
+	top:2590px;
+}  
+
+
+
+}
+/////////////////////////////////////////*/
+
+
+@media screen and (max-width:320px){
+	/* smart phone/ android / ipod/ iphone ect ...*/
+
+.bg #web {
+	
+width:100%;
+/*height:20px;/*
+/*background-color:#3C6;*/
+
+}
+.bg #web #text {
+	width:97%;
+	height:50px;
+	position:absolute;
+	top:40px;
+	display:none;
+	
+	/*background-color:#F00;*/
+
+}
+.bg #text020 {
+	width:97%;
+	height:50px;
+	position:absolute;
+	top:40px;
+	background-image:url(images/studio02.png);
+	background-size:95%,95%;
+	background-repeat:no-repeat;
+}
+
+
+.bg #web #content01 #welcome {
+
+	font-size:1.50em;
+	
+
+
+}
+
+.bg #web #content02 #BoxText {
+	width:85%;
+	height:350px;
+	background-color:#0FF;
+	border-radius:20px;
+	opacity:0.9;
+	font-family:Gotham, "Helvetica Neue", Helvetica,
+	 Arial, sans-serif;
+	color:#FFF;
+	font-size:1.20em;
+	left:5%;
+	position:absolute;
+	text-align:left;
+	padding-top:1px;
+	
+}
+
+
+.bg #web #content01 #star01 {
+
+	left: 1%;
+	width:50px;
+	height:50px;
+	background-size:50px,50px;
+	
+
+}
+
+
+.bg #web #content01 #star02 {
+
+	left: 5%;
+	width:50px;
+	height:50px;
+	background-size:50px,50px;
+	
+
+}
+
+.bg #web #content01 #star03 {
+
+	left: 80%;
+	width:50px;
+	height:50px;
+	background-size:50px,50px;
+	
+
+}
+
+
+.bg #web #content01 #balloon01 {
+	width:100px;
+	height:100px;
+	left: 38%;
+	background-size: 100% 100%;
+	top:1460px;
+}
+
+.bg #web #content01 #balloon02 {
+
+	left: 40%;
+	width:100px;
+	height:100px;
+	top:-45px;
+	background-size: 100px 100px;
+	z-index:-1;
+}
+	
+.bg #web #content01 #balloon03 {
+
+	left: 10%;
+	width:100px;
+	height:100px;
+	background-size: 100px 100px;
+	top:2230px;
+	}	
+	
+.bg #web #content01 #balloon04 {
+
+	left: 60%;
+	width:90px;
+	height:90px;
+	background-size: 90px 90px;
+	top:100%;
+}
+
+.bg #web #content01 #balloon05 {
+
+	left: 27%;
+	width:90px;
+	height:90px;
+	background-size: 90px 90px;
+	
+}
+
+
+.bg #web #content01 #balloon06 {
+
+	left: 59%;
+	width:90px;
+	height:90px;
+	background-size: 90px 90px;
+	
+}
+
+
+.bg #web #content01 #balloon07 {
+	background-image: url(images/balloon01.png);
+	width: 130px;
+	height: 140px;
+	position:absolute;
+	background-repeat:no-repeat;
+	left:100px;
+	top: 100px;
+	background-size:130px,130px;
+	-webkit-transition: all 1ms 1ms;
+	-moz-transition: all 1ms 1ms;
+	-ms-transition: all 1ms 1ms;
+	-o-transition: all 1ms 1ms;
+	transition: all 1ms 1ms;
+
+}
+
+.bg #web #content01 #balloon07:hover {
+	background-image: url(images/bad01.png);
+}
+
+
+.bg #web #content01 #balloon08 {
+	background-image: url(images/balloon02.png);
+	width: 130px;
+	height: 140px;
+    background-size:130px,130px;
+	position:absolute;
+	background-repeat: no-repeat;
+	left:50%;
+	top: 420px;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+}
+.bg #web #content01 #balloon08:hover {
+	background-image: url(images/bad02.png);
+}
+
+
+.bg #web #content01 #balloon09 {
+	display:none;
+}
+
+
+
+.bg #web #content01 #balloon010 {
+
+	display:none;
+
+}
+
+
+
+.bg #web #content01 #balloon011 {
+    width:130px;
+	height:150px;
+	background-image:url(images/ball01-01.png);
+	background-size:130px,130px;
+	background-repeat:no-repeat;
+	position:absolute;
+	left:20px;
+	top:400px;
+	-webkit-transition: all 1ms 1ms;
+	-moz-transition: all 1ms 1ms;
+	-ms-transition: all 1ms 1ms;
+	-o-transition: all 1ms 1ms;
+	transition: all 1ms 1ms;
+	
+	
+
+}
+.bg #web #content01 #balloon011:hover {
+	background-image:url(images/ball02-01.png);
+}
+
+
+.bg  #web #content02 #ourMission {
+	
+	font-size:1.95em;
+	
+
+
+	
+}
+
+.bg #web #content02 #image {
+	width:250px;
+	height:250px;
+	position:absolute;
+	left:5%;
+	top:10%;
+    background-size: 250px 250px;
+	
+}
+
+
+
+.bg #web #content03 #gif {
+	width:250px;
+	height:250px;
+	background-image:url(images/icon/icon02-01.png);
+	position:absolute;
+	left:5%;
+	top:10%;
+}
+
+.bg #web #content03 #gif:hover {
+	background-image:url(images/icon/icon02-02-01.png);
+}
+
+
+.bg #web #content03 #txtBoxing .Annoyingtxt {
+	text-align:left;
+	color:#FFF;
+	 font-family:Gotham, "Helvetica Neue", Helvetica,
+	 Arial, sans-serif;
+	 font-size:1.20em;
+
+	
+}
+
+
+
+
+
+
+.bg #web #content03 #txtBoxing {
+
+    width:85%;
+	height:350px;
+    top:45%;
+	left:5%;
+
+
+}
+
+.bg #web #content03 #boxing2 {
+    
+
+	font-size:1.60em;
+
+
+
+
+
+}
+
+
+.bg #web #logo {
+	float:left;
+	left:20px;
+	top:30%;
+	position:absolute;
+}
+
+
+
+.bg #web #text {
+
+	top:5%;
+
+
+}
+
+
+
+
+.bg #web #NavBar {
+	width:96%;
+	height: 50px;
+	top:15%;
+    position:absolute;
+}
+
+
+.bg  #web #NavBar #aboutUS {
+	
+	left:1%;
+	display:none;
+}
+
+
+.bg #web #NavBar #urapps {
+
+	left: 20%;
+	display:none;
+}
+
+.bg #web #NavBar #vid {
+
+	left: 43%;
+	display:none;
+
+}
+
+
+.bg #web #NavBar #store {
+
+	left: 65%;
+	display:none;
+
+}
+
+.bg #web #NavBar #contact {
+
+	left: 85%;
+	display:none;
+	
+}
+.bg center #web #MobileNav {
+	
+	width:100px;
+	height:50px;
+	position:absolute;
+	background-color:#FF0;
+	top:15%;
+	left:40%;
+	display:block;
+	
+}
+
+.bg center #web #MobileNav:hover {
+	background-color:#90C;
+}
+
+
+.bg #web #MobileNav ul li a {
+
+font-family:Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+color:#F00;
+text-decoration:none;
+padding:0px;
+margin:0px;
+position:relative;
+text-align:center;
+display:block;
+left:-23px;
+padding-top:10px;
+visibility:visible;
+
+}
+
+
+
+
+
+.bg #web #MobileNav ul li {
+	list-style:none;
+	padding:0px;
+	margin:0px;
+	position:relative;
+	
+	
+
+}
+
+.bg #web #MobileNav ul li ul{
+	
+	padding:0px;
+	margin:0px;
+	position:absolute;
+	visibility:hidden;
+	
+
+}
+
+
+.bg #web #MobileNav ul:hover a {
+	
+	padding:0px;
+	margin:0px;
+	padding-top:10px;
+	visibility:visible;
+	color:#0FF;
+
+}
+
+.bg #web #MobileNav ul:hover ul{
+	
+
+	position:absolute;
+	visibility:visible;
+	background-color:#90C;
+
+}
+
+
+.bg #web #MobileNav ul {
+	
+	padding:0px;
+	margin:0px;
+	display:block;
+	width:0px;
+	height:0px;
+	
+	
+
+}
+
+.bg #web #MobileNav ul ul {
+	
+	padding:0px;
+	margin:0px;
+	display:block;
+	width:120px;
+	height:180px;
+	left:-49px;
+	background-color:#FF0;
+	
+
+
+	
+
+}
+.bg #web #MobileNav ul ul li  {
+	padding-left:25px;
+	margin:0px;
+	display:block;
+	background-color:#FF0;
+	
+
+
+	
+
+}
+
+
+.bg #web #MobileNav ul ul li a {
+	
+	display:block;
+
+}
+
+
+
+.bg #web #MobileNav ul ul li a:hover {
+	
+	display:block;
+	color:#F00;	
+
+
+}
+
+
+.bg #web #content01 {
+	width:96%;
+	height:600px;
+	top:320px;
+	
+	
+}
+
+.bg #web #content02 {
+	
+	width:96%;
+	height:820px;
+	top:960px;
+	
+}
+
+
+
+.bg center #web #content03 {
+    
+	width:96%;
+	height:730px;
+	top:1820px;
+}
+
+
+
+.bg #web #foot {
+	width:96%;
+	height:150px;
+	top:2590px;
+}  
+
+.bg #web #foot #copyright {
+	width:200px;
+	height:48px;
+	left: 10px;
+	top:80px;
+	color:#FF0;
+	position: absolute;
+
+}
+
+.bg #web #foot #term {
+	width:85px;
+	height:50px;
+	background-color:#FF0;
+	left: 170px;
+	top:12px;
+	color:#F00;
+	position: absolute;
+
+}
+
+.bg #web #foot #term #txtTerm{
+	
+	font-size:0.90em;
+
+}
+
+
+}
+/*/////////////////////////////////////////*/

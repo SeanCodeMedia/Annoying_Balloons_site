@@ -1,0 +1,1533 @@
+@charset "utf-8";
+
+.aboutBg {
+	background-color:#0FF;
+	
+}
+.aboutBg #page {
+	width:985px;
+	height:auto;
+	
+
+}
+
+.aboutBg #page #NavBar #urapps {
+	
+	width: 100px;
+	height: 50px;
+	background-color: #FF0;
+	position:absolute;
+	top:0px;
+	left: 270px;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+	
+}
+
+
+
+.aboutBg #page #NavBar #vid {
+	
+	width: 100px;
+	height: 50px;
+	position:absolute;
+	left: 450px;
+	background-color: #FF0;
+	-webkit-transition: all 1ms 1ms;
+	-moz-transition: all 1ms 1ms;
+	-ms-transition: all 1ms 1ms;
+	-o-transition: all 1ms 1ms;
+	transition: all 1ms 1ms;
+	
+}
+
+
+.aboutBg #page #NavBar #aboutUS {
+
+    width: 100px;
+	height: 50px;
+	position:absolute;
+	left: 100px;
+	top:0px;
+	background-color:#FF0;
+	border-color:#000;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+
+}
+.aboutBg #page #NavBar #aboutUS #text01 {
+	
+	width:100px;
+	height:50px;
+	padding: 1px;
+	padding-top: 11px;
+	font-family:Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 1em;
+	color: #F00;
+	-webkit-transition: all 1ms 1ms;
+	-moz-transition: all 1ms 1ms;
+	-ms-transition: all 1ms 1ms;
+	-o-transition: all 1ms 1ms;
+	transition: all 1ms 1ms;
+
+
+}
+.aboutBg #page #NavBar #aboutUS:hover {
+	background-color: #909;
+}
+
+.aboutBg #page #NavBar #aboutUS #text01:hover {
+	color:#0FF;
+}
+	
+.aboutBg #page #NavBar {
+	width: 985px;
+	height: 50px;
+	position:absolute;
+	background-color: #F00;
+	top:120px;
+	
+}
+.aboutBg #page #NavBar #urapps #text02 {
+	
+	width: 100px;
+	height: 50px;
+	color: #F00;
+	padding: 1px;
+	padding-top: 11px;
+	font-family: Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 1em;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+	
+}
+.aboutBg #page #NavBar #urapps:hover {
+	background-color: #90C;
+}
+.aboutBg #page  #NavBar #urapps #text02:hover {
+	color: #0FF;
+}
+
+
+.aboutBg #page #NavBar #vid  #text03 {
+	
+	width: 100px;
+	height: 50px;
+	color: #F00;
+	padding: 1px;
+	padding-top: 11px;
+	font-family: Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 1em;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+	
+}
+	
+.aboutBg #page #NavBar #vid:hover {
+	background-color: #90C;
+}
+.aboutBg #page #NavBar #vid #text03:hover {
+	color:  #0FF;
+}	
+	
+.aboutBg #page #NavBar #store {
+	
+	width: 100px;
+	height: 50px;
+	background-color: #FF0;
+	position:absolute;
+	left: 640px;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+	
+	
+}
+.aboutBg #page #NavBar #store #text04 {
+	
+	width: 100px;
+	height: 50px;
+	color: #F00;
+	padding: 1px;
+	padding-top: 11px;
+	font-family: Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 1em;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+	
+}
+ .aboutBg #page #NavBar #store:hover {
+	background-color: #90C;
+}
+.aboutBg #page #NavBar #store #text04:hover {
+	color: #0FF;
+}
+
+.aboutBg #page #NavBar #contact {
+	
+	
+	width: 100px;
+	height: 50px;
+	background-color: #FF0;
+	position:absolute;
+	left: 810px;
+	-webkit-transition: all 1ms ease 1ms;
+	-moz-transition: all 1ms ease 1ms;
+	-ms-transition: all 1ms ease 1ms;
+	-o-transition: all 1ms ease 1ms;
+	transition: all 1ms ease 1ms;
+	
+}
+.aboutBg #page #NavBar #contact #text05 {
+	
+	
+	width: 100px;
+	height: 50px;
+	color: #F00;
+	padding: 1px;
+	padding-top: 11px;
+	font-family: Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 1em;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+	
+}
+
+.aboutBg #page #NavBar #contact:hover {
+	background-color: #93C;
+}
+.aboutBg #page #NavBar #contact #text05:hover {
+	color: #0FF;
+}
+ .aboutBg #page #text {
+	width:985px;
+	height:50px;
+	position:absolute;
+	top:40px;
+	
+	/*background-color:#F00;*/
+
+}
+
+
+ .aboutBg #page #logo {
+	float:left;
+	/*background-color:#0F3;*/
+}
+.aboutBg center #page #container {
+    
+	width:985px;
+	height:450px;
+	position:absolute;
+	top:200px;
+	background-color:#90C;
+	
+}
+
+
+
+.aboutBg center #page #foot {
+	
+	background-color:#F00;
+   	width:985px; 
+	height:70px;
+	position:absolute;
+	top:2680px;
+}
+
+
+.aboutBg #page #foot #facebook {
+	width: 48px;
+	height: 48px;
+	/*background-color:#FF0;*/
+	background-image: url(images/buttons/facebook01-01.png);
+	position: absolute;
+	left: 30px;
+	top: 12px;
+	-webkit-transition: all 1ms 1ms;
+	-moz-transition: all 1ms 1ms;
+	-ms-transition: all 1ms 1ms;
+	-o-transition: all 1ms 1ms;
+	transition: all 1ms 1ms;
+	
+}
+.aboutBg #page #foot #twitter {
+	
+	width: 48px;
+	height: 48px;
+	/*background-color:#FF0;*/
+	background-image: url(images/buttons/t-01.png);
+	position: absolute;
+	left: 100px;
+	top: 12px;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+	
+	
+	
+}
+
+
+
+.aboutBg #page #foot #facebook:hover {
+	background-image: url(images/buttons/facebook02-01.png);
+}
+
+.aboutBg #page #foot #twitter:hover {
+	background-image: url(images/buttons/t02-01.png);
+	
+}
+
+
+.aboutBg center #page #container .frame {
+	padding-top:70px;
+}
+.aboutBg #page #container #balloonBox {
+	width: 150px;
+	height: 150px;
+	left: 50px;
+	top: 120px;
+	position: absolute;
+	background-image: url(images/ball01-01-01.png);
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+	
+}
+.aboutBg center #page #container #balloonBox02 {
+	width: 150px;
+	height: 150px;
+	left: 820px;
+	top: 120px;
+	position: absolute;
+	background-image: url(images/ball03-01.png);
+	-webkit-transition: all 1ms ease 1ms;
+	-moz-transition: all 1ms ease 1ms;
+	-ms-transition: all 1ms ease 1ms;
+	-o-transition: all 1ms ease 1ms;
+	transition: all 1ms ease 1ms;
+	
+}
+.aboutBg #page #container #balloonBox:hover {
+	background-image:url(images/ballLocck-01.png)
+}
+.aboutBg center #page #container #balloonBox02:hover{
+	background-image: url(images/ball92-01.png);
+}
+.aboutBg center #page #container02 {
+	
+	width:985px;
+	height:450px;
+	position:absolute;
+	top:690px;
+	background-color:#0C9;
+	
+}
+.aboutBg center #page #container02 .frame02 {
+	padding-top:70px;
+}
+.aboutBg center #page #container03 {
+	
+	width:985px;
+	height:450px;
+	position:absolute;
+	top:1185px;
+	background-color:#FC3;
+	
+}
+
+.aboutBg center #page #container03 .frame03 {
+	padding-top:70px;
+}
+
+.aboutBg center #page #container04 {
+
+	width:985px;
+	height:450px;
+	position:absolute;
+	top:1685px;
+	background-color:#06F;
+	
+
+}
+
+.aboutBg center #page #container04 .frame04 {
+	padding-top:70px;
+}
+.aboutBg center #page #container05 {
+	
+	
+	width:985px;
+	height:450px;
+	position:absolute;
+	top:2185px;
+	background-color:#F60;
+	
+	
+}
+.aboutBg center #page #container05 .frame05 {
+	
+	padding-top:70px;
+}
+
+.aboutBg #page  #MobileNav ul li a {
+
+text-decoration:none;
+visibility:hidden;
+
+}
+
+
+
+
+.aboutBg #page #MobileNav ul ul li a{
+	padding-left:25px;
+	margin:0px;
+	display:block;
+	text-decoration:none;
+	visibility:hidden;
+	
+
+
+}
+
+ .aboutBg #page #MobileNav ul li {
+
+list-style:none;
+visibility:hidden;
+
+}
+
+/*//////////////////MOBILE CSS////////////////////////////////////////*/
+@media screen and (max-width:768px){
+
+.aboutBg #page {
+	
+width:100%;
+/*height:20px;
+background:#03F;*/
+
+
+}
+
+.aboutBg #page #text {
+	width:98%;
+	height:50px;
+	
+	/*background-color:#F00;*/
+
+}
+
+.aboutBg #page #NavBar {
+	width:98%;
+	height: 50px;
+
+}
+
+
+ .aboutBg #page #NavBar #aboutUS{
+	
+	left:1%;
+}
+
+
+.aboutBg #page #NavBar #urapps {
+
+	left: 20%;
+
+}
+
+.aboutBg #page #NavBar #vid {
+
+	left: 40%;
+
+}
+
+
+.aboutBg #page #NavBar #store {
+
+	left: 60%;
+
+}
+
+.aboutBg #page #NavBar #contact {
+
+	left: 80%;
+
+}
+
+ .aboutBg #page #logo {
+	float:left;
+	/*background-color:#0F3;*/
+}
+.aboutBg center #page #container {
+    
+	width:985px;
+	height:450px;
+	position:absolute;
+	top:200px;
+	background-color:#90C;
+	
+}
+
+
+
+.aboutBg center #page #foot {
+	
+	background-color:#F00;
+   	width:985px; 
+	height:70px;
+	position:absolute;
+	top:2680px;
+}
+
+
+.aboutBg #page #foot #facebook {
+	width: 48px;
+	height: 48px;
+	/*background-color:#FF0;*/
+	background-image: url(images/buttons/facebook01-01.png);
+	position: absolute;
+	left: 30px;
+	top: 12px;
+	-webkit-transition: all 1ms 1ms;
+	-moz-transition: all 1ms 1ms;
+	-ms-transition: all 1ms 1ms;
+	-o-transition: all 1ms 1ms;
+	transition: all 1ms 1ms;
+	
+}
+.aboutBg #page #foot #twitter {
+	
+	width: 48px;
+	height: 48px;
+	/*background-color:#FF0;*/
+	background-image: url(images/buttons/t-01.png);
+	position: absolute;
+	left: 100px;
+	top: 12px;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+	
+	
+	
+}
+
+
+
+.aboutBg #page #foot #facebook:hover {
+	background-image: url(images/buttons/facebook02-01.png);
+}
+
+.aboutBg #page #foot #twitter:hover {
+	background-image: url(images/buttons/t02-01.png);
+	
+}
+
+
+.aboutBg center #page #container .frame {
+	padding-top:70px;
+}
+.aboutBg #page #container #balloonBox {
+	width: 150px;
+	height: 150px;
+	left: 50px;
+	top: 120px;
+	position: absolute;
+	background-image: url(images/ball01-01-01.png);
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+	
+}
+.aboutBg center #page #container #balloonBox02 {
+	width: 150px;
+	height: 150px;
+	left: 820px;
+	top: 120px;
+	position: absolute;
+	background-image: url(images/ball03-01.png);
+	-webkit-transition: all 1ms ease 1ms;
+	-moz-transition: all 1ms ease 1ms;
+	-ms-transition: all 1ms ease 1ms;
+	-o-transition: all 1ms ease 1ms;
+	transition: all 1ms ease 1ms;
+	
+}
+.aboutBg #page #container #balloonBox:hover {
+	background-image:url(images/ballLocck-01.png)
+}
+.aboutBg center #page #container #balloonBox02:hover{
+	background-image: url(images/ball92-01.png);
+}
+.aboutBg center #page #container02 {
+	
+	width:985px;
+	height:450px;
+	position:absolute;
+	top:690px;
+	background-color:#0C9;
+	
+}
+.aboutBg center #page #container02 .frame02 {
+	padding-top:70px;
+}
+.aboutBg center #page #container03 {
+	
+	width:985px;
+	height:450px;
+	position:absolute;
+	top:1185px;
+	background-color:#FC3;
+	
+}
+
+.aboutBg center #page #container03 .frame03 {
+	padding-top:70px;
+}
+
+.aboutBg center #page #container04 {
+
+	width:985px;
+	height:450px;
+	position:absolute;
+	top:1685px;
+	background-color:#06F;
+	
+
+}
+
+.aboutBg center #page #container04 .frame04 {
+	padding-top:70px;
+}
+.aboutBg center #page #container05 {
+	
+	
+	width:985px;
+	height:450px;
+	position:absolute;
+	top:2185px;
+	background-color:#F60;
+	
+	
+}
+.aboutBg center #page #container05 .frame05 {
+	
+	padding-top:70px;
+}
+
+.aboutBg center #page #container {
+	width:98%;
+	height:450px;
+	top:200px;
+}
+
+.aboutBg center #page #container02 {
+	width:98%;
+	height:450px;
+	top:690px;
+	
+}
+
+.aboutBg center #page #container03 {
+	width:98%;
+	height:450px;
+	top:1185px;
+	
+}
+
+.aboutBg center #page #container04 {
+	width:98%;
+	height:450px;
+	top:1685px
+}
+
+
+.aboutBg center #page #container05 {
+	width:98%;
+	height:450px;
+	top:2185px;
+	
+}
+
+.aboutBg center #page #foot {
+	
+   	width:98%; 
+	height:70px;
+
+}
+
+.aboutBg #page #container #balloonBox {
+display:none;
+	
+}
+.aboutBg center #page #container #balloonBox02 {
+	display:none;
+	
+}
+
+
+}
+
+
+@media screen and (max-width:480px){
+
+.aboutBg #page #container #balloonBox {
+display:none;
+	
+}
+.aboutBg center #page #container #balloonBox02 {
+	display:none;
+	
+}
+
+
+.aboutBg #page  {
+	
+width:100%;
+/*height:20px;
+background:#000;*/
+
+
+}
+
+
+
+.aboutBg #page #balloon02 {
+	background-image:url(images/balloon02.png);
+    left: 72%;
+	width:100px;
+	height:100px;
+	top:45%;
+	background-size: 100px 100px;
+	z-index:-1;
+	position:absolute;
+	background-repeat: no-repeat;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+}
+.aboutBg #page #balloon02:hover {
+	background-image:url(images/bad03.png);
+}
+/*/////////////////////////////////////////*/
+
+
+
+
+
+
+
+.aboutBg #page #logo {
+	float:left;
+	left:20px;
+	top:30%;
+	position:absolute;
+}
+
+
+
+.aboutBg #page #text {
+
+	top:5%;
+
+
+}
+
+
+
+
+.aboutBg #page #NavBar {
+	width:96%;
+	height: 50px;
+	top:15%;
+    position:absolute;
+}
+
+
+.aboutBg #page #NavBar #aboutUS {
+	
+	left:1%;
+	display:none;
+}
+
+
+.aboutBg #page #NavBar #urapps {
+
+	left: 20%;
+	display:none;
+}
+
+.aboutBg #page #NavBar #vid {
+
+	left: 43%;
+	display:none;
+
+}
+
+
+.aboutBg #page #NavBar #store {
+
+	left: 65%;
+	display:none;
+
+}
+
+.aboutBg #page #NavBar #contact {
+
+	left: 85%;
+	display:none;
+	
+	
+}
+.aboutBg #page #MobileNav {
+	
+	width:100px;
+	height:50px;
+	position:absolute;
+	background-color:#FF0;
+	top:15%;
+	left:160px;
+	display:block;
+	
+}
+
+.aboutBg #page  #MobileNav:hover {
+	background-color:#90C;
+}
+
+
+.aboutBg #page #MobileNav ul li a {
+
+font-family:Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+color:#F00;
+text-decoration:none;
+padding:0px;
+margin:0px;
+position:relative;
+text-align:center;
+display:block;
+left:-23px;
+padding-top:10px;
+visibility:visible;
+
+}
+
+
+
+
+
+.aboutBg #page #MobileNav ul li {
+	list-style:none;
+	padding:0px;
+	margin:0px;
+	position:relative;
+	
+	
+
+}
+
+.aboutBg #page #MobileNav ul li ul{
+	
+	padding:0px;
+	margin:0px;
+	position:absolute;
+	visibility:hidden;
+	
+
+}
+
+
+.aboutBg #page #MobileNav ul:hover a {
+	
+	padding:0px;
+	margin:0px;
+	padding-top:10px;
+	visibility:visible;
+	color:#0FF;
+
+}
+
+.aboutBg #page  #MobileNav ul:hover ul{
+	
+
+	position:absolute;
+	visibility:visible;
+	background-color:#90C;
+
+}
+
+
+.aboutBg #page  #MobileNav ul {
+	
+	padding:0px;
+	margin:0px;
+	display:block;
+	width:0px;
+	height:0px;
+	
+	
+
+}
+
+.aboutBg #page  #MobileNav ul ul {
+	
+	padding:0px;
+	margin:0px;
+	display:block;
+	width:120px;
+	height:180px;
+	left:-49px;
+	background-color:#FF0;
+	
+
+
+	
+
+}
+.aboutBg #page  #MobileNav ul ul li  {
+	padding-left:25px;
+	margin:0px;
+	display:block;
+	background-color:#FF0;
+	
+
+
+	
+
+}
+
+
+.aboutBg #page   #MobileNav ul ul li a {
+	
+	display:block;
+
+}
+
+
+
+.aboutBg #page  #MobileNav ul ul li a:hover {
+	
+	display:block;
+	color:#F00;	
+
+
+}
+
+iframe {
+	
+	width:80%;
+	height:315px;
+	
+}
+
+.aboutBg center #page #container {
+	width:96%;
+	height:450px;
+	top:305px;
+}
+
+.aboutBg center #page #container02 {
+	width:96%;
+	height:550px;
+	top:800px;
+	
+}
+
+.aboutBg center #page #container03 {
+	width:96%;
+	height:450px;
+	top:1390px;
+	
+}
+
+.aboutBg center #page #container04 {
+	width:96%;
+	height:450px;
+	top:1885px
+}
+
+
+.aboutBg center #page #container05 {
+	width:96%;
+	height:450px;
+	top:2390px;
+	
+}
+
+.aboutBg center #page #foot {
+	
+   	width:96%; 
+	height:70px;
+	top:2880px;
+
+}
+
+	
+}
+
+/*
+@media screen and (max-width:592px){
+
+.aboutBg #page #container #balloonBox {
+display:none;
+	
+}
+.aboutBg center #page #container #balloonBox02 {
+	display:none;
+	
+}
+
+
+.aboutBg #page  {
+	
+width:100%;
+height:20px;
+background:#000;
+
+
+}
+
+
+
+.aboutBg #page #balloon02 {
+	background-image:url(images/ball01-01.png);
+    left: 72%;
+	width:100px;
+	height:100px;
+	top:43%;
+	background-size: 100px 100px;
+	z-index:-1;
+	position:absolute;
+	background-repeat: no-repeat;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+}
+.aboutBg #page #balloon02:hover {
+	background-image:url(images/ball03-01.png);
+}
+
+.aboutBg #page #logo {
+	float:left;
+	left:20px;
+	top:30%;
+	position:absolute;
+}
+
+
+
+.aboutBg #page #text {
+
+	top:5%;
+
+
+}
+
+
+
+
+.aboutBg #page #NavBar {
+	width:96%;
+	height: 50px;
+	top:15%;
+    position:absolute;
+}
+
+
+.aboutBg #page #NavBar #aboutUS {
+	
+	left:1%;
+	display:none;
+}
+
+
+.aboutBg #page #NavBar #urapps {
+
+	left: 20%;
+	display:none;
+}
+
+.aboutBg #page #NavBar #vid {
+
+	left: 43%;
+	display:none;
+
+}
+
+
+.aboutBg #page #NavBar #store {
+
+	left: 65%;
+	display:none;
+
+}
+
+.aboutBg #page #NavBar #contact {
+
+	left: 85%;
+	display:none;
+	
+	
+}
+.aboutBg #page #MobileNav {
+	
+	width:100px;
+	height:50px;
+	position:absolute;
+	background-color:#FF0;
+	top:15%;
+	left:160px;
+	display:block;
+	
+}
+
+.aboutBg #page  #MobileNav:hover {
+	background-color:#90C;
+}
+
+
+.aboutBg #page #MobileNav ul li a {
+
+font-family:Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+color:#F00;
+text-decoration:none;
+padding:0px;
+margin:0px;
+position:relative;
+text-align:center;
+display:block;
+left:-23px;
+padding-top:10px;
+visibility:visible;
+
+}
+
+
+
+
+
+.aboutBg #page #MobileNav ul li {
+	list-style:none;
+	padding:0px;
+	margin:0px;
+	position:relative;
+	
+	
+
+}
+
+.aboutBg #page #MobileNav ul li ul{
+	
+	padding:0px;
+	margin:0px;
+	position:absolute;
+	visibility:hidden;
+	
+
+}
+
+
+.aboutBg #page #MobileNav ul:hover a {
+	
+	padding:0px;
+	margin:0px;
+	padding-top:10px;
+	visibility:visible;
+	color:#0FF;
+
+}
+
+.aboutBg #page  #MobileNav ul:hover ul{
+	
+
+	position:absolute;
+	visibility:visible;
+	background-color:#90C;
+
+}
+
+
+.aboutBg #page  #MobileNav ul {
+	
+	padding:0px;
+	margin:0px;
+	display:block;
+	width:0px;
+	height:0px;
+	
+	
+
+}
+
+.aboutBg #page  #MobileNav ul ul {
+	
+	padding:0px;
+	margin:0px;
+	display:block;
+	width:120px;
+	height:180px;
+	left:-49px;
+	background-color:#FF0;
+	
+
+
+	
+
+}
+.aboutBg #page  #MobileNav ul ul li  {
+	padding-left:25px;
+	margin:0px;
+	display:block;
+	background-color:#FF0;
+	
+
+
+	
+
+}
+
+
+.aboutBg #page   #MobileNav ul ul li a {
+	
+	display:block;
+
+}
+
+
+
+.aboutBg #page  #MobileNav ul ul li a:hover {
+	
+	display:block;
+	color:#F00;	
+
+
+}
+
+iframe {
+	
+	width:80%;
+	height:315px;
+	
+}
+
+.aboutBg center #page #container {
+	width:96%;
+	height:450px;
+	top:305px;
+}
+
+.aboutBg center #page #container02 {
+	width:96%;
+	height:550px;
+	top:800px;
+	
+}
+
+.aboutBg center #page #container03 {
+	width:96%;
+	height:450px;
+	top:1390px;
+	
+}
+
+.aboutBg center #page #container04 {
+	width:96%;
+	height:450px;
+	top:1885px
+}
+
+
+.aboutBg center #page #container05 {
+	width:96%;
+	height:450px;
+	top:2390px;
+	
+}
+
+.aboutBg center #page #foot {
+	
+   	width:96%; 
+	height:70px;
+	top:2880px;
+
+}
+
+	
+}
+
+*/
+
+@media screen and (max-width:320px){
+	
+	
+.aboutBg #page  {
+	
+width:100%;
+/*height:20px;
+background:#009;*/
+
+
+}
+
+
+
+.aboutBg #page #balloon02 {
+	background-image:url(images/balloon02.png);
+    left: 50%;
+	width:100px;
+	height:100px;
+	top:45%;
+	background-size: 100px 100px;
+	z-index:-1;
+	position:absolute;
+	background-repeat: no-repeat;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+}
+.aboutBg #page #balloon02:hover {
+	background-image:url(images/bad03.png);
+}
+/*/////////////////////////////////////////*/
+
+
+
+
+
+
+
+.aboutBg #page #logo {
+	float:left;
+	left:20px;
+	top:30%;
+	position:absolute;
+}
+
+
+
+.aboutBg #page #text {
+
+	top:5%;
+
+
+}
+
+
+
+
+.aboutBg #page #NavBar {
+	width:96%;
+	height: 50px;
+	top:15%;
+    position:absolute;
+}
+
+
+.aboutBg #page #NavBar #aboutUS {
+	
+	left:1%;
+	display:none;
+}
+
+
+.aboutBg #page #NavBar #urapps {
+
+	left: 20%;
+	display:none;
+}
+
+.aboutBg #page #NavBar #vid {
+
+	left: 43%;
+	display:none;
+
+}
+
+
+.aboutBg #page #NavBar #store {
+
+	left: 65%;
+	display:none;
+
+}
+
+.aboutBg #page #NavBar #contact {
+
+	left: 85%;
+	display:none;
+	
+	
+}
+.aboutBg #page #MobileNav {
+	
+	width:100px;
+	height:50px;
+	position:absolute;
+	background-color:#FF0;
+	top:15%;
+	left:160px;
+	display:block;
+	
+}
+
+.aboutBg #page  #MobileNav:hover {
+	background-color:#90C;
+}
+
+
+.aboutBg #page #MobileNav ul li a {
+
+font-family:Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+color:#F00;
+text-decoration:none;
+padding:0px;
+margin:0px;
+position:relative;
+text-align:center;
+display:block;
+left:-23px;
+padding-top:10px;
+visibility:visible;
+
+}
+
+
+
+
+
+.aboutBg #page #MobileNav ul li {
+	list-style:none;
+	padding:0px;
+	margin:0px;
+	position:relative;
+	
+	
+
+}
+
+.aboutBg #page #MobileNav ul li ul{
+	
+	padding:0px;
+	margin:0px;
+	position:absolute;
+	visibility:hidden;
+	
+
+}
+
+
+.aboutBg #page #MobileNav ul:hover a {
+	
+	padding:0px;
+	margin:0px;
+	padding-top:10px;
+	visibility:visible;
+	color:#0FF;
+
+}
+
+.aboutBg #page  #MobileNav ul:hover ul{
+	
+
+	position:absolute;
+	visibility:visible;
+	background-color:#90C;
+
+}
+
+
+.aboutBg #page  #MobileNav ul {
+	
+	padding:0px;
+	margin:0px;
+	display:block;
+	width:0px;
+	height:0px;
+	
+	
+
+}
+
+.aboutBg #page  #MobileNav ul ul {
+	
+	padding:0px;
+	margin:0px;
+	display:block;
+	width:120px;
+	height:180px;
+	left:-49px;
+	background-color:#FF0;
+	
+
+
+	
+
+}
+.aboutBg #page  #MobileNav ul ul li  {
+	padding-left:25px;
+	margin:0px;
+	display:block;
+	background-color:#FF0;
+	
+
+
+	
+
+}
+
+
+.aboutBg #page   #MobileNav ul ul li a {
+	
+	display:block;
+
+}
+
+
+
+.aboutBg #page  #MobileNav ul ul li a:hover {
+	
+	display:block;
+	color:#F00;	
+
+
+}
+
+
+}

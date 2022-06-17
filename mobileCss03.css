@@ -1,0 +1,1491 @@
+
+@charset "utf-8";
+/*/////////////////////////Mobile css/////////////////////////////////////////*/
+
+@media screen and (max-width:768px){
+	/* tablets.. pad ect ...*/
+
+.aboutBg #page {
+	
+width:100%;
+height:20px;
+background:#03F;
+
+
+}
+
+	
+.aboutBg #page #text {
+	width:98%;
+	height:50px;
+	
+	/*background-color:#F00;*/
+
+}
+
+.aboutBg #page #NavBar {
+	width:98%;
+	height: 50px;
+
+}
+
+
+ .aboutBg #page #NavBar #aboutUS{
+	
+	left:1%;
+}
+
+
+.aboutBg #page #NavBar #urapps {
+
+	left: 20%;
+
+}
+
+.aboutBg #page #NavBar #vid {
+
+	left: 43%;
+
+}
+
+
+.aboutBg #page #NavBar #store {
+
+	left: 65%;
+
+}
+
+.aboutBg #page #NavBar #contact {
+
+	left: 85%;
+
+}
+
+.aboutBg center #page #container {
+	width:98%;
+	height:440px;
+	
+}
+
+.aboutBg center #page #foot {
+	width:98%;
+	height:70px;
+	
+}  
+
+
+.aboutBg center #page #container #txt #top_Developer {
+	font-size:0.70em;
+	left:105%
+
+}
+
+.aboutBg #page #container #title {
+
+	left:30%;
+	
+	
+}
+
+
+
+/*////////////////////////////////////////////////////////////////////*/
+
+.aboutBg center #page #container02 {
+	width:98%;
+	height:440px;
+	
+}
+
+.aboutBg center #page #container03 {
+	width:98%;
+	height:440px;
+	
+}
+
+.aboutBg center #page #container04 {
+	width:98%;
+	height:440px;
+	
+}
+
+
+.aboutBg center #page #container05 {
+	width:98%;
+	height:440px;
+	
+}
+
+.aboutBg center #page #container06 {
+	width:98%;
+	height:440px;
+	
+}
+
+.aboutBg center #page #container03 #icon02 {
+	
+	width:250px;
+	height:250px;
+	position:absolute;
+	background-size:250px,250px;
+	
+}
+
+.aboutBg center #page #container03 #icon02 #top {
+	width:100px;
+	height:120px;
+	top:60px;
+	left:75px;
+	position:absolute;
+	background-size:100px,100px;
+}
+
+.aboutBg center #page #container04 #icon04 {
+
+    width:250px;
+	height:250px;
+	position:absolute;
+	background-size:250px,250px;
+	
+	
+}
+
+
+.aboutBg center #page #container05 #icon05 {
+
+left:1%;
+	
+	
+}
+
+.aboutBg center #page #container06 #icon06 {
+
+left:1%;
+	
+	
+}
+
+
+/*///////////////////////////////////////////////////////////////////*/
+
+.aboutBg center #page #container #txt {
+	
+	width:250px;
+	height:250px;
+	position:absolute;
+	background-size:250px,250px;
+
+}
+
+.aboutBg #page #container02 #iconBox {
+	
+	width:250px;
+	height:250px;
+	position:absolute;
+	background-size:250px,250px;
+
+	
+}
+
+
+/*///////////////////////////////////////////////////////////////////*/
+.aboutBg #page #container #Download {
+
+	top: 75%;
+	left: 12%;
+	
+}
+
+.aboutBg center #page #container02 #downlordNow {
+	top: 75%;
+	left: 12%;
+	
+}
+
+.aboutBg #page #container03 #boxdownload {
+	
+	top: 75%;
+	left: 8%;
+
+}
+
+.aboutBg #page #container04 #downLo {
+	
+	top: 75%;
+	left: 10%;
+
+	
+}
+
+.aboutBg center #page #container #top_Developer {
+	width: 350px;
+	height: 350px;
+	background-color: #0FF;
+	position: absolute;
+	left: 48%;
+	top: 20px;
+	border-radius: 30px;
+	opacity: 0.9;
+	top: 65px;
+
+}
+
+.aboutBg center #page #container05 #downloarder {
+	
+	top: 75%;
+	left: 15%;
+
+}
+
+
+.aboutBg center #page #container06 #downoladBox {
+	
+	top: 75%;
+	left: 17%;
+	
+}
+/*/////////////////////////////////////////////////////////////////////////////////////////*/
+
+.aboutBg  #page #container02 #title2 {
+
+	font-size:1.70em;
+	left:180px;
+	
+}
+
+/*////////////////////////////////////////////////////////////////////////////////////////*/
+
+.aboutBg center #page #container02 #TxtBox02 {
+	
+	width:350px;
+	height:350px;
+	left:47%;
+	top:15%;
+
+}
+
+.aboutBg center #page #container03 #txtBox {
+	
+    width:350px;
+	height:350px;
+	left:47%;
+	top:15%;
+}
+
+.aboutBg center #page #container04 #txtBoxingUp {
+	
+	width:350px;
+	height:350px;
+	left:47%;
+	top:15%;
+	
+}
+
+
+.aboutBg #page #container05 #txtboing {
+
+	width:350px;
+	height:350px;
+	left:47%;
+	top:15%;
+	
+
+}
+
+.aboutBg center #page #container06 #txt1010 {
+	
+	width:350px;
+	height:350px;
+	left:47%;
+	top:15%;
+
+}
+
+/*////////////////////////////////////////////////////////////////////////////////////////////*/
+
+
+
+.aboutBg center #page #container03 #title03 {
+	
+
+	left:30%;
+	
+	
+}
+
+.aboutBg center #page #container04 #title04 {
+	
+		left:30%;
+
+}
+
+
+.aboutBg center #page #container05 #title05 {
+	
+		left:30%;
+
+}
+
+.aboutBg center #page #container06 #title06 {
+	
+		left:30%;
+
+}
+
+}
+
+/*////////////////////////////////////////////////////////////////////////////////////////////*/
+@media screen and (max-width:480px){
+	/* smart phone/ android / ipod/ iphone ect ...*/
+
+.aboutBg #page  {
+	
+width:100%;
+height:20px;
+background:#000;
+
+
+}
+
+
+
+.aboutBg #page #balloon02 {
+	background-image:url(images/balloon02.png);
+    left: 72%;
+	width:100px;
+	height:100px;
+	top:45%;
+	background-size: 100px 100px;
+	z-index:-1;
+	position:absolute;
+	background-repeat: no-repeat;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+}
+.aboutBg #page #balloon02:hover {
+	background-image:url(images/bad03.png);
+}
+/*/////////////////////////////////////////*/
+
+
+
+
+
+
+
+.aboutBg #page #logo {
+	float:left;
+	left:20px;
+	top:30%;
+	position:absolute;
+}
+
+
+
+.aboutBg #page #text {
+
+	top:5%;
+
+
+}
+
+
+
+
+.aboutBg #page #NavBar {
+	width:96%;
+	height: 50px;
+	top:15%;
+    position:absolute;
+}
+
+
+.aboutBg #page #NavBar #aboutUS {
+	
+	left:1%;
+	display:none;
+}
+
+
+.aboutBg #page #NavBar #urapps {
+
+	left: 20%;
+	display:none;
+}
+
+.aboutBg #page #NavBar #vid {
+
+	left: 43%;
+	display:none;
+
+}
+
+
+.aboutBg #page #NavBar #store {
+
+	left: 65%;
+	display:none;
+
+}
+
+.aboutBg #page #NavBar #contact {
+
+	left: 85%;
+	display:none;
+	
+	
+}
+.aboutBg #page #MobileNav {
+	
+	width:100px;
+	height:50px;
+	position:absolute;
+	background-color:#FF0;
+	top:15%;
+	left:160px;
+	display:block;
+	
+}
+
+.aboutBg #page  #MobileNav:hover {
+	background-color:#90C;
+}
+
+
+.aboutBg #page #MobileNav ul li a {
+
+font-family:Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+color:#F00;
+text-decoration:none;
+padding:0px;
+margin:0px;
+position:relative;
+text-align:center;
+display:block;
+left:-23px;
+padding-top:10px;
+visibility:visible;
+
+}
+
+
+
+
+
+.aboutBg #page #MobileNav ul li {
+	list-style:none;
+	padding:0px;
+	margin:0px;
+	position:relative;
+	
+	
+
+}
+
+.aboutBg #page #MobileNav ul li ul{
+	
+	padding:0px;
+	margin:0px;
+	position:absolute;
+	visibility:hidden;
+	
+
+}
+
+
+.aboutBg #page #MobileNav ul:hover a {
+	
+	padding:0px;
+	margin:0px;
+	padding-top:10px;
+	visibility:visible;
+	color:#0FF;
+
+}
+
+.aboutBg #page  #MobileNav ul:hover ul{
+	
+
+	position:absolute;
+	visibility:visible;
+	background-color:#90C;
+
+}
+
+
+.aboutBg #page  #MobileNav ul {
+	
+	padding:0px;
+	margin:0px;
+	display:block;
+	width:0px;
+	height:0px;
+	
+	
+
+}
+
+.aboutBg #page  #MobileNav ul ul {
+	
+	padding:0px;
+	margin:0px;
+	display:block;
+	width:120px;
+	height:180px;
+	left:-49px;
+	background-color:#FF0;
+	
+
+
+	
+
+}
+.aboutBg #page  #MobileNav ul ul li  {
+	padding-left:25px;
+	margin:0px;
+	display:block;
+	background-color:#FF0;
+	
+
+
+	
+
+}
+
+
+.aboutBg #page   #MobileNav ul ul li a {
+	
+	display:block;
+
+}
+
+
+
+.aboutBg #page  #MobileNav ul ul li a:hover {
+	
+	display:block;
+	color:#F00;	
+
+
+}
+
+
+
+
+
+
+
+.aboutBg center #page #foot {
+	width:96%;
+	height:70px;
+	top:5330px;
+
+	
+}  
+
+.aboutBg center #page #container #top_Developer {
+
+	left: 5%;
+	top: 350px;
+}
+
+
+
+.aboutBg center #page #container {
+	width:96%;
+	height:1000px;
+	top:300px;
+}
+
+.aboutBg center #page #container02 {
+	width:96%;
+	height:1000px;
+	top:1300px;
+	
+}
+
+.aboutBg center #page #container03 {
+	width:96%;
+	height:1000px;
+	top:2300px;
+	
+}
+
+.aboutBg center #page #container04 {
+	width:96%;
+	height:1000px;
+	top:2300px;
+}
+
+
+.aboutBg center #page #container05 {
+	width:96%;
+	height:1000px;
+	top:3300px;
+	
+}
+
+.aboutBg center #page #container06 {
+	width:96%;
+	height:1000px;
+	top:4300px;
+}
+
+.aboutBg #page #container #title {
+
+	left:20%;
+	font-size:1.80em;
+	
+	
+}
+
+.aboutBg center #page #container02 #TxtBox02 {
+	
+	width:350px;
+	height:350px;
+	left:10%;
+	top:35%;
+
+}
+
+.aboutBg #page #container02 #title2 {
+font-size: 1.30em;
+left:10%;
+}
+
+.aboutBg center #page #container05 #title05 {
+	
+		left:10%;
+
+}
+
+
+.aboutBg center #page #container03 #txtBox {
+	
+    width:350px;
+	height:350px;
+	left:10%;
+	top:35%;
+}
+
+.aboutBg center #page #container04 #txtBoxingUp {
+	
+	width:350px;
+	height:350px;
+	left:10%;
+	top:35%;
+	
+}
+
+.aboutBg #page #container05 #txtboing {
+
+	width:350px;
+	height:350px;
+	left:10%;
+	top:35%;
+	
+
+}
+
+.aboutBg center #page #container06 #txt1010 {
+	
+	width:350px;
+	height:350px;
+	left:10%;
+	top:35%;
+
+}
+
+}
+/*/////////////////////////////////////////////////////////////////////////*/
+
+
+/*/////////////////////////////////%%592%%///////////////////////////////////////////////////////////*/
+@media screen and (max-width:592px){
+	/* smart phone/ android / ipod/ iphone ect ...*/
+
+.aboutBg #page  {
+	
+width:100%;
+height:20px;
+
+}
+
+
+
+.aboutBg #page #balloon02 {
+	background-image:url(images/balloon02.png);
+    left: 72%;
+	width:100px;
+	height:100px;
+	top:45%;
+	background-size: 100px 100px;
+	z-index:-1;
+	position:absolute;
+	background-repeat: no-repeat;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+}
+.aboutBg #page #balloon02:hover {
+	background-image:url(images/bad03.png);
+}
+/*/////////////////////////////////////////*/
+
+
+
+
+
+
+
+.aboutBg #page #logo {
+	float:left;
+	left:20px;
+	top:30%;
+	position:absolute;
+}
+
+
+
+.aboutBg #page #text {
+
+	top:5%;
+
+
+}
+
+
+
+
+.aboutBg #page #NavBar {
+	width:96%;
+	height: 50px;
+	top:15%;
+    position:absolute;
+}
+
+
+.aboutBg #page #NavBar #aboutUS {
+	
+	left:1%;
+	display:none;
+}
+
+
+.aboutBg #page #NavBar #urapps {
+
+	left: 20%;
+	display:none;
+}
+
+.aboutBg #page #NavBar #vid {
+
+	left: 43%;
+	display:none;
+
+}
+
+
+.aboutBg #page #NavBar #store {
+
+	left: 65%;
+	display:none;
+
+}
+
+.aboutBg #page #NavBar #contact {
+
+	left: 85%;
+	display:none;
+	
+	
+}
+.aboutBg #page #MobileNav {
+	
+	width:100px;
+	height:50px;
+	position:absolute;
+	background-color:#FF0;
+	top:15%;
+	left:160px;
+	display:block;
+	
+}
+
+.aboutBg #page  #MobileNav:hover {
+	background-color:#90C;
+}
+
+
+.aboutBg #page #MobileNav ul li a {
+
+font-family:Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+color:#F00;
+text-decoration:none;
+padding:0px;
+margin:0px;
+position:relative;
+text-align:center;
+display:block;
+left:-23px;
+padding-top:10px;
+visibility:visible;
+
+}
+
+
+
+
+
+.aboutBg #page #MobileNav ul li {
+	list-style:none;
+	padding:0px;
+	margin:0px;
+	position:relative;
+	
+	
+
+}
+
+.aboutBg #page #MobileNav ul li ul{
+	
+	padding:0px;
+	margin:0px;
+	position:absolute;
+	visibility:hidden;
+	
+
+}
+
+
+.aboutBg #page #MobileNav ul:hover a {
+	
+	padding:0px;
+	margin:0px;
+	padding-top:10px;
+	visibility:visible;
+	color:#0FF;
+
+}
+
+.aboutBg #page  #MobileNav ul:hover ul{
+	
+
+	position:absolute;
+	visibility:visible;
+	background-color:#90C;
+
+}
+
+
+.aboutBg #page  #MobileNav ul {
+	
+	padding:0px;
+	margin:0px;
+	display:block;
+	width:0px;
+	height:0px;
+	
+	
+
+}
+
+.aboutBg #page  #MobileNav ul ul {
+	
+	padding:0px;
+	margin:0px;
+	display:block;
+	width:120px;
+	height:180px;
+	left:-49px;
+	background-color:#FF0;
+	
+
+
+	
+
+}
+.aboutBg #page  #MobileNav ul ul li  {
+	padding-left:25px;
+	margin:0px;
+	display:block;
+	background-color:#FF0;
+	
+
+
+	
+
+}
+
+
+.aboutBg #page   #MobileNav ul ul li a {
+	
+	display:block;
+
+}
+
+
+
+.aboutBg #page  #MobileNav ul ul li a:hover {
+	
+	display:block;
+	color:#F00;	
+
+
+}
+
+
+
+
+
+
+
+.aboutBg center #page #foot {
+	width:96%;
+	height:70px;
+	top:5330px;
+
+	
+}  
+
+.aboutBg center #page #container #top_Developer {
+
+	left: 5%;
+	top: 350px;
+}
+
+
+
+.aboutBg center #page #container {
+	width:96%;
+	height:1000px;
+	top:300px;
+}
+
+.aboutBg center #page #container02 {
+	width:96%;
+	height:1000px;
+	top:1300px;
+	
+}
+
+.aboutBg center #page #container03 {
+	width:96%;
+	height:1000px;
+	top:2300px;
+	
+}
+
+.aboutBg center #page #container04 {
+	width:96%;
+	height:1000px;
+	top:2300px;
+}
+
+
+.aboutBg center #page #container05 {
+	width:96%;
+	height:1000px;
+	top:3300px;
+	
+}
+
+.aboutBg center #page #container06 {
+	width:96%;
+	height:1000px;
+	top:4300px;
+}
+
+.aboutBg #page #container #title {
+
+	left:20%;
+	font-size:1.80em;
+	
+	
+}
+
+.aboutBg center #page #container02 #TxtBox02 {
+	
+	width:350px;
+	height:350px;
+	left:10%;
+	top:35%;
+
+}
+
+.aboutBg #page #container02 #title2 {
+font-size: 1.30em;
+left:10%;
+}
+
+.aboutBg center #page #container05 #title05 {
+	
+		left:10%;
+
+}
+
+
+.aboutBg center #page #container03 #txtBox {
+	
+    width:350px;
+	height:350px;
+	left:10%;
+	top:35%;
+}
+
+.aboutBg center #page #container04 #txtBoxingUp {
+	
+	width:350px;
+	height:350px;
+	left:10%;
+	top:35%;
+	
+}
+
+.aboutBg #page #container05 #txtboing {
+
+	width:350px;
+	height:350px;
+	left:10%;
+	top:35%;
+	
+
+}
+
+.aboutBg center #page #container06 #txt1010 {
+	
+	width:350px;
+	height:350px;
+	left:10%;
+	top:35%;
+
+}
+
+}
+
+/*/////////////////////////////////////////////////////////////////////////*/
+@media screen and (max-width:320px){
+	/* smart phone/ android / ipod/ iphone ect ...*/
+
+.aboutBg #page  {
+	
+width:100%;
+height:20px;
+background:#009;
+
+
+}
+
+
+
+.aboutBg #page #balloon02 {
+	background-image:url(images/balloon02.png);
+    left: 50%;
+	width:100px;
+	height:100px;
+	top:45%;
+	background-size: 100px 100px;
+	z-index:-1;
+	position:absolute;
+	background-repeat: no-repeat;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+}
+.aboutBg #page #balloon02:hover {
+	background-image:url(images/bad03.png);
+}
+/*/////////////////////////////////////////*/
+
+
+
+
+
+
+
+.aboutBg #page #logo {
+	float:left;
+	left:20px;
+	top:30%;
+	position:absolute;
+}
+
+
+
+.aboutBg #page #text {
+
+	top:5%;
+
+
+}
+
+
+
+
+.aboutBg #page #NavBar {
+	width:96%;
+	height: 50px;
+	top:15%;
+    position:absolute;
+}
+
+
+.aboutBg #page #NavBar #aboutUS {
+	
+	left:1%;
+	display:none;
+}
+
+
+.aboutBg #page #NavBar #urapps {
+
+	left: 20%;
+	display:none;
+}
+
+.aboutBg #page #NavBar #vid {
+
+	left: 43%;
+	display:none;
+
+}
+
+
+.aboutBg #page #NavBar #store {
+
+	left: 65%;
+	display:none;
+
+}
+
+.aboutBg #page #NavBar #contact {
+
+	left: 85%;
+	display:none;
+	
+	
+}
+.aboutBg #page #MobileNav {
+	
+	width:100px;
+	height:50px;
+	position:absolute;
+	background-color:#FF0;
+	top:15%;
+	left:160px;
+	display:block;
+	
+}
+
+.aboutBg #page  #MobileNav:hover {
+	background-color:#90C;
+}
+
+
+.aboutBg #page #MobileNav ul li a {
+
+font-family:Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+color:#F00;
+text-decoration:none;
+padding:0px;
+margin:0px;
+position:relative;
+text-align:center;
+display:block;
+left:-23px;
+padding-top:10px;
+visibility:visible;
+
+}
+
+
+
+
+
+.aboutBg #page #MobileNav ul li {
+	list-style:none;
+	padding:0px;
+	margin:0px;
+	position:relative;
+	
+	
+
+}
+
+.aboutBg #page #MobileNav ul li ul{
+	
+	padding:0px;
+	margin:0px;
+	position:absolute;
+	visibility:hidden;
+	
+
+}
+
+
+.aboutBg #page #MobileNav ul:hover a {
+	
+	padding:0px;
+	margin:0px;
+	padding-top:10px;
+	visibility:visible;
+	color:#0FF;
+
+}
+
+.aboutBg #page  #MobileNav ul:hover ul{
+	
+
+	position:absolute;
+	visibility:visible;
+	background-color:#90C;
+
+}
+
+
+.aboutBg #page  #MobileNav ul {
+	
+	padding:0px;
+	margin:0px;
+	display:block;
+	width:0px;
+	height:0px;
+	
+	
+
+}
+
+.aboutBg #page  #MobileNav ul ul {
+	
+	padding:0px;
+	margin:0px;
+	display:block;
+	width:120px;
+	height:180px;
+	left:-49px;
+	background-color:#FF0;
+	
+
+
+	
+
+}
+.aboutBg #page  #MobileNav ul ul li  {
+	padding-left:25px;
+	margin:0px;
+	display:block;
+	background-color:#FF0;
+	
+
+
+	
+
+}
+
+
+.aboutBg #page   #MobileNav ul ul li a {
+	
+	display:block;
+
+}
+
+
+
+.aboutBg #page  #MobileNav ul ul li a:hover {
+	
+	display:block;
+	color:#F00;	
+
+
+}
+
+
+
+
+
+
+
+.aboutBg center #page #foot {
+	width:96%;
+	height:70px;
+	top:5330px;
+
+	
+}  
+
+.aboutBg center #page #container #top_Developer {
+	width:250px;
+	left: 5%;
+	top: 350px;
+}
+
+.aboutBg #page #container #top_Developer .Annoyingtxt {
+	font-size:1em;
+}
+
+
+
+.aboutBg center #page #container {
+	width:96%;
+	height:1000px;
+	top:300px;
+}
+
+.aboutBg center #page #container02 {
+	width:96%;
+	height:1000px;
+	top:1300px;
+	
+}
+
+.aboutBg center #page #container03 {
+	width:96%;
+	height:1000px;
+	top:2300px;
+	
+}
+
+.aboutBg center #page #container04 {
+	width:96%;
+	height:1000px;
+	top:2300px;
+}
+
+
+.aboutBg center #page #container05 {
+	width:96%;
+	height:1000px;
+	top:3300px;
+	
+}
+
+.aboutBg center #page #container06 {
+	width:96%;
+	height:1000px;
+	top:4300px;
+}
+
+.aboutBg #page #container #title {
+
+	left:10%;
+	font-size:1.40em;
+	
+	
+}
+
+.aboutBg center #page #container02 #TxtBox02 {
+	
+	width:250px;
+	height:350px;
+	left:5%;
+	top:35%;
+
+}
+
+.aboutBg #page #container02 #title2 {
+font-size: 1.30em;
+left:10%;
+}
+
+.aboutBg center #page #container05 #title05 {
+	
+		left:5%;
+		font-size:1.40em;
+		
+
+}
+
+
+.aboutBg center #page #container03 #txtBox {
+	
+    width:250px;
+	height:350px;
+	left:10%;
+	top:35%;
+}
+
+.aboutBg center #page #container04 #txtBoxingUp {
+	
+	width:250px;
+	height:350px;
+	left:5%;
+	top:35%;
+	
+}
+
+.aboutBg #page #container05 #txtboing {
+
+	width:200px;
+	height:350px;
+	left:5%;
+	top:35%;
+	
+
+}
+
+.aboutBg center #page #container06 #txt1010 {
+	
+	width:200px;
+	height:350px;
+	left:10%;
+	top:35%;
+
+}
+
+.aboutBg center #page #container06 #txt1010 .jet {
+	font-size:1em;
+}
+
+
+.aboutBg center #page #container #txt {
+	
+	width:250px;
+	height:250px;
+	left:3%;
+	position:absolute;
+	background-size:250px,250px;
+
+}
+
+.aboutBg #page #container02 #iconBox{
+	left:5%;
+	
+}
+
+.aboutBg center #page #container04 #icon04 {
+
+    width:250px;
+	height:250px;
+	left:5%;
+	position:absolute;
+	background-size:250px,250px;
+	
+	
+}
+
+.aboutBg center #page #container05 #icon05 {
+
+	left:-15%;
+
+}
+
+.aboutBg center #page #container05 #txtboing .Jamaican{
+	font-size:0.90em;
+	
+}
+
+.aboutBg center #page #container06 #icon06 {
+
+	left:-15%;
+
+}
+
+}
+/*/////////////////////////////////////////////////////////////////////////*/

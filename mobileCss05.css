@@ -1,0 +1,836 @@
+@charset "utf-8";
+@media screen and (max-width:768px){
+
+.aboutBg #page {
+	
+width:100%;
+height:20px;
+background:#03F;
+
+
+}
+
+.aboutBg #page #text {
+	width:98%;
+	height:50px;
+	
+	/*background-color:#F00;*/
+
+}
+
+.aboutBg #page #NavBar {
+	width:98%;
+	height: 50px;
+
+}
+
+
+ .aboutBg #page #NavBar #aboutUS{
+	
+	left:1%;
+}
+
+
+.aboutBg #page #NavBar #urapps {
+
+	left: 20%;
+
+}
+
+.aboutBg #page #NavBar #vid {
+
+	left: 43%;
+
+}
+
+
+.aboutBg #page #NavBar #store {
+
+	left: 65%;
+
+}
+
+.aboutBg #page #NavBar #contact {
+
+	left: 85%;
+
+}
+
+ .aboutBg #page #logo {
+	float:left;
+	/*background-color:#0F3;*/
+}
+.aboutBg center #page #container {
+    
+	width:98%;
+	height:450px;
+	position:absolute;
+	top:200px;
+	
+	
+}
+
+
+
+.aboutBg center #page #foot {
+	
+	background-color:#F00;
+   	width:98%; 
+	height:70px;
+	position:absolute;
+	
+}
+
+
+.aboutBg #page #foot #facebook {
+	width: 48px;
+	height: 48px;
+	/*background-color:#FF0;*/
+	background-image: url(images/buttons/facebook01-01.png);
+	position: absolute;
+	left: 30px;
+	top: 12px;
+	-webkit-transition: all 1ms 1ms;
+	-moz-transition: all 1ms 1ms;
+	-ms-transition: all 1ms 1ms;
+	-o-transition: all 1ms 1ms;
+	transition: all 1ms 1ms;
+	
+}
+.aboutBg #page #foot #twitter {
+	
+	width: 48px;
+	height: 48px;
+	/*background-color:#FF0;*/
+	background-image: url(images/buttons/t-01.png);
+	position: absolute;
+	left: 100px;
+	top: 12px;
+	-webkit-transition: all 1ms ease-in 1ms;
+	-moz-transition: all 1ms ease-in 1ms;
+	-ms-transition: all 1ms ease-in 1ms;
+	-o-transition: all 1ms ease-in 1ms;
+	transition: all 1ms ease-in 1ms;
+	
+	
+	
+}
+
+
+
+.aboutBg #page #foot #facebook:hover {
+	background-image: url(images/buttons/facebook02-01.png);
+}
+
+.aboutBg #page #foot #twitter:hover {
+	background-image: url(images/buttons/t02-01.png);
+	
+}
+
+.aboutBg center #page #container {
+	width:98%;
+	height:450px;
+	top:200px;
+}
+
+}
+
+@media screen and (max-width:480px){
+
+
+.aboutBg #page  {
+	
+width:100%;
+height:20px;
+background:#C03;
+
+
+}
+
+
+.aboutBg #page #logo {
+	float:left;
+	left:20px;
+	top:30%;
+	position:absolute;
+}
+
+
+
+.aboutBg #page #text {
+
+	top:5%;
+
+
+}
+
+
+
+
+.aboutBg #page #NavBar {
+	width:96%;
+	height: 50px;
+	top:15%;
+    position:absolute;
+}
+
+
+.aboutBg #page #NavBar #aboutUS {
+	
+	left:1%;
+	display:none;
+}
+
+
+.aboutBg #page #NavBar #urapps {
+
+	left: 20%;
+	display:none;
+}
+
+.aboutBg #page #NavBar #vid {
+
+	left: 43%;
+	display:none;
+
+}
+
+
+.aboutBg #page #NavBar #store {
+
+	left: 65%;
+	display:none;
+
+}
+
+.aboutBg #page #NavBar #contact {
+
+	left: 85%;
+	display:none;
+	
+	
+}
+.aboutBg #page #MobileNav {
+	
+	width:100px;
+	height:50px;
+	position:absolute;
+	background-color:#FF0;
+	top:15%;
+	left:160px;
+	display:block;
+	
+}
+
+.aboutBg #page  #MobileNav:hover {
+	background-color:#90C;
+}
+
+
+.aboutBg #page #MobileNav ul li a {
+
+font-family:Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+color:#F00;
+text-decoration:none;
+padding:0px;
+margin:0px;
+position:relative;
+text-align:center;
+display:block;
+left:-23px;
+padding-top:10px;
+visibility:visible;
+
+}
+
+
+
+
+
+.aboutBg #page #MobileNav ul li {
+	list-style:none;
+	padding:0px;
+	margin:0px;
+	position:relative;
+	
+	
+
+}
+
+.aboutBg #page #MobileNav ul li ul{
+	
+	padding:0px;
+	margin:0px;
+	position:absolute;
+	visibility:hidden;
+	
+
+}
+
+
+.aboutBg #page #MobileNav ul:hover a {
+	
+	padding:0px;
+	margin:0px;
+	padding-top:10px;
+	visibility:visible;
+	color:#0FF;
+
+}
+
+.aboutBg #page  #MobileNav ul:hover ul{
+	
+
+	position:absolute;
+	visibility:visible;
+	background-color:#90C;
+
+}
+
+
+.aboutBg #page  #MobileNav ul {
+	
+	padding:0px;
+	margin:0px;
+	display:block;
+	width:0px;
+	height:0px;
+	
+	
+
+}
+
+.aboutBg #page  #MobileNav ul ul {
+	
+	padding:0px;
+	margin:0px;
+	display:block;
+	width:120px;
+	height:180px;
+	left:-49px;
+	background-color:#FF0;
+	
+
+
+	
+
+}
+.aboutBg #page  #MobileNav ul ul li  {
+	padding-left:25px;
+	margin:0px;
+	display:block;
+	background-color:#FF0;
+	
+
+
+	
+
+}
+
+
+.aboutBg #page   #MobileNav ul ul li a {
+	
+	display:block;
+
+}
+
+
+
+.aboutBg #page  #MobileNav ul ul li a:hover {
+	
+	display:block;
+	color:#F00;	
+
+
+}
+
+
+.aboutBg center #page #container {
+    
+	width:96%;
+	height:450px;
+	position:absolute;
+	top:300px;
+	
+	
+}
+
+.aboutBg center #page #foot {
+	
+   	width:96%;
+	top:800px;
+	
+
+}
+
+
+	
+}
+
+
+@media screen and (max-width:592px){
+
+
+.aboutBg #page  {
+	
+width:100%;
+height:20px;
+background:#C03;
+
+
+}
+
+
+.aboutBg #page #logo {
+	float:left;
+	left:20px;
+	top:30%;
+	position:absolute;
+}
+
+
+
+.aboutBg #page #text {
+
+	top:5%;
+
+
+}
+
+
+
+
+.aboutBg #page #NavBar {
+	width:97%;
+	height: 50px;
+	top:15%;
+    position:absolute;
+}
+
+
+.aboutBg #page #NavBar #aboutUS {
+	
+	left:1%;
+	display:none;
+}
+
+
+.aboutBg #page #NavBar #urapps {
+
+	left: 20%;
+	display:none;
+}
+
+.aboutBg #page #NavBar #vid {
+
+	left: 43%;
+	display:none;
+
+}
+
+
+.aboutBg #page #NavBar #store {
+
+	left: 65%;
+	display:none;
+
+}
+
+.aboutBg #page #NavBar #contact {
+
+	left: 85%;
+	display:none;
+	
+	
+}
+.aboutBg #page #MobileNav {
+	
+	width:100px;
+	height:50px;
+	position:absolute;
+	background-color:#FF0;
+	top:15%;
+	left:160px;
+	display:block;
+	
+}
+
+.aboutBg #page  #MobileNav:hover {
+	background-color:#90C;
+}
+
+
+.aboutBg #page #MobileNav ul li a {
+
+font-family:Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+color:#F00;
+text-decoration:none;
+padding:0px;
+margin:0px;
+position:relative;
+text-align:center;
+display:block;
+left:-23px;
+padding-top:10px;
+visibility:visible;
+
+}
+
+
+
+
+
+.aboutBg #page #MobileNav ul li {
+	list-style:none;
+	padding:0px;
+	margin:0px;
+	position:relative;
+	
+	
+
+}
+
+.aboutBg #page #MobileNav ul li ul{
+	
+	padding:0px;
+	margin:0px;
+	position:absolute;
+	visibility:hidden;
+	
+
+}
+
+
+.aboutBg #page #MobileNav ul:hover a {
+	
+	padding:0px;
+	margin:0px;
+	padding-top:10px;
+	visibility:visible;
+	color:#0FF;
+
+}
+
+.aboutBg #page  #MobileNav ul:hover ul{
+	
+
+	position:absolute;
+	visibility:visible;
+	background-color:#90C;
+
+}
+
+
+.aboutBg #page  #MobileNav ul {
+	
+	padding:0px;
+	margin:0px;
+	display:block;
+	width:0px;
+	height:0px;
+	
+	
+
+}
+
+.aboutBg #page  #MobileNav ul ul {
+	
+	padding:0px;
+	margin:0px;
+	display:block;
+	width:120px;
+	height:180px;
+	left:-49px;
+	background-color:#FF0;
+	
+
+
+	
+
+}
+.aboutBg #page  #MobileNav ul ul li  {
+	padding-left:25px;
+	margin:0px;
+	display:block;
+	background-color:#FF0;
+	
+
+
+	
+
+}
+
+
+.aboutBg #page   #MobileNav ul ul li a {
+	
+	display:block;
+
+}
+
+
+
+.aboutBg #page  #MobileNav ul ul li a:hover {
+	
+	display:block;
+	color:#F00;	
+
+
+}
+
+
+.aboutBg center #page #container {
+    
+	width:97%;
+	height:450px;
+	position:absolute;
+	top:300px;
+	
+	
+}
+
+.aboutBg center #page #foot {
+	
+   	width:97%;
+	top:800px;
+	
+
+}
+
+
+	
+}
+
+
+@media screen and (max-width:320px){
+	
+.aboutBg #page  {
+	
+width:100%;
+height:20px;
+background:#39F;
+
+
+}
+
+.aboutBg #page #logo {
+	float:left;
+	left:20px;
+	top:30%;
+	position:absolute;
+}
+
+
+
+.aboutBg #page #text {
+
+	top:5%;
+
+
+}
+
+
+
+
+.aboutBg #page #NavBar {
+	width:96%;
+	height: 50px;
+	top:15%;
+    position:absolute;
+}
+
+
+.aboutBg #page #NavBar #aboutUS {
+	
+	left:1%;
+	display:none;
+}
+
+
+.aboutBg #page #NavBar #urapps {
+
+	left: 20%;
+	display:none;
+}
+
+.aboutBg #page #NavBar #vid {
+
+	left: 43%;
+	display:none;
+
+}
+
+
+.aboutBg #page #NavBar #store {
+
+	left: 65%;
+	display:none;
+
+}
+
+.aboutBg #page #NavBar #contact {
+
+	left: 85%;
+	display:none;
+	
+	
+}
+.aboutBg #page #MobileNav {
+	
+	width:100px;
+	height:50px;
+	position:absolute;
+	background-color:#FF0;
+	top:15%;
+	left:160px;
+	display:block;
+	
+}
+
+.aboutBg #page  #MobileNav:hover {
+	background-color:#90C;
+}
+
+
+.aboutBg #page #MobileNav ul li a {
+
+font-family:Showcard Gothic,Impact,"Franklin Gothic Bold", "Arial Black", sans-serif;
+color:#F00;
+text-decoration:none;
+padding:0px;
+margin:0px;
+position:relative;
+text-align:center;
+display:block;
+left:-23px;
+padding-top:10px;
+visibility:visible;
+
+}
+
+
+
+
+
+.aboutBg #page #MobileNav ul li {
+	list-style:none;
+	padding:0px;
+	margin:0px;
+	position:relative;
+	
+	
+
+}
+
+.aboutBg #page #MobileNav ul li ul{
+	
+	padding:0px;
+	margin:0px;
+	position:absolute;
+	visibility:hidden;
+	
+
+}
+
+
+.aboutBg #page #MobileNav ul:hover a {
+	
+	padding:0px;
+	margin:0px;
+	padding-top:10px;
+	visibility:visible;
+	color:#0FF;
+
+}
+
+.aboutBg #page  #MobileNav ul:hover ul{
+	
+
+	position:absolute;
+	visibility:visible;
+	background-color:#90C;
+
+}
+
+
+.aboutBg #page  #MobileNav ul {
+	
+	padding:0px;
+	margin:0px;
+	display:block;
+	width:0px;
+	height:0px;
+	
+	
+
+}
+
+.aboutBg #page  #MobileNav ul ul {
+	
+	padding:0px;
+	margin:0px;
+	display:block;
+	width:120px;
+	height:180px;
+	left:-49px;
+	background-color:#FF0;
+	
+
+
+	
+
+}
+.aboutBg #page  #MobileNav ul ul li  {
+	padding-left:25px;
+	margin:0px;
+	display:block;
+	background-color:#FF0;
+	
+
+
+	
+
+}
+
+
+.aboutBg #page   #MobileNav ul ul li a {
+	
+	display:block;
+
+}
+
+
+
+.aboutBg #page  #MobileNav ul ul li a:hover {
+	
+	display:block;
+	color:#F00;	
+
+
+}
+
+.aboutBg center #page #container {
+    
+	width:96%;
+	height:450px;
+	position:absolute;
+	top:300px;
+	
+	
+}
+
+.aboutBg center #page #foot {
+	
+   	width:96%;
+	top:800px;
+	
+
+}
+
+.aboutBg center #page #container img{
+	
+	width:100%;
+	height:70%;
+	
+}
+
+}
